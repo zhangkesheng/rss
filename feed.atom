@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GITHUB_USERNAME.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T07:05:22.429Z</updated>
+    <updated>2021-05-22T00:44:00.020Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://GITHUB_USERNAME.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://GITHUB_USERNAME.github.io/REPO_NAME/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[如何评价《北京卡通》这本漫画杂志？]]></title>
+        <id>http://www.zhihu.com/question/26899230/answer/1895744615</id>
+        <link href="http://www.zhihu.com/question/26899230/answer/1895744615?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-05-21T15:30:07.000Z</updated>
+        <summary type="html"><![CDATA[@叶佳桐 
+好吧，其实严格意义上说，我对《北京卡通》算不上熟悉，因为我既没有在《北卡》连载过，也没有潜伏进《北卡》编辑部，我对它的了解，也许比一个资深粉丝多不了太多。
+《北京卡通》于我而言，更多的，像一个离得很近，却没有实现过的梦想。
+1995年，《画书大王》停刊1年后，国漫“5155工程“正式启动，因为我之前有幸在《画王》连载《雪椰》的经历，《北京卡通》，《少年漫画》，《漫画大王》都曾纷纷向我抛来稿件邀约的橄榄枝。我收到的第一本来自北京的样刊，就是《北京卡通》。
+
+
+
+那时候《北卡》的主编，是于虹老师。辗转打听到我家电话和我通话后，她向我说明了“5155工程”和《北京卡通》的创刊，表达了约稿的愿望，并一口气给我寄来《北卡》的创刊号6大本。这在普遍吝啬样刊本数的当年，算是相当“豪阔“的表现。（笑）而翻开杂志的创刊号，一股和《画王》不同的”官方“以及”文青“气质搭着油墨香，扑面而来。
+《北卡》是不一样的，和纯市场型的《画王》不同，北京出版集团和“5155工程“国字头的背景，导致她与生俱来的目标就是“要打造有中国特色的漫画，和日本漫画分厅抗议。”创刊号上的连载尽量屏蔽标准日式风格，而选择有国风特色（尽管那时并没有…]]></summary>
+        <author>
+            <name>颜开大叔</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何看待 Epic 2021 大特卖免费送出《NBA 2K21》，5 月 27 日还将有神秘游戏？]]></title>
+        <id>http://www.zhihu.com/question/460549824/answer/1897442322</id>
+        <link href="http://www.zhihu.com/question/460549824/answer/1897442322?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-05-21T11:30:08.000Z</updated>
+        <summary type="html"><![CDATA[既有策略下，正确的一步棋。我判断会有明显作用，但要持续做才能量变到质变。(对，多送点，再多送点！)
+第一个问题，EGS 还在送，有用吗？
+和其他答案不太一样的是，我认为指出 Epic 和 EGS 各种问题意义不大。Epic 在做 EGS 之前，摆在面前的是：
+
+有一个行业巨头 Valve，占了 PC 绝大部分市场份额，而且这个事情还有网络效应 (社区) 和生态 (创意工坊) 很强的不可转移资产 (用户库里的游戏)，不是那么容易能撬得动
+Epic 的牌是堡垒之夜和虚幻引擎，和钱 (钱还不一定有 Valve 多)
+
+换了是你你会怎么做？
+Epic 的出招是：
+
+EGS 是堡垒之夜启动器，且持续投资堡垒生态 (和 CS 1.6 之于 Steam 的意义一样)
+靠 UE 开发者生态来降低分成比例
+砸钱送游戏和限时独占
+还不错的联网社交性游戏能收购多少是多少，也独占
+投资社交功能
+
+是比较明确的双边策略，吸引发行商，吸引用户，来做网络效应。
+当然 Epic 在执行上是有问题的，最近 Epic 和苹果的官司上也有内部文件披露，很多 EGS 的功能实现大幅落后于原来规划进度，甚至还包括购物车这种非常基础的功能。但从策略规划…]]></summary>
+        <author>
+            <name>颜镇钟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[演员到底有多吃天赋？]]></title>
+        <id>http://www.zhihu.com/question/443350396/answer/1865118481</id>
+        <link href="http://www.zhihu.com/question/443350396/answer/1865118481?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
+        <updated>2021-05-21T10:30:08.000Z</updated>
+        <summary type="html"><![CDATA[演戏一定是要有天分的，而且演戏的天分要占到 99%，1% 的是血汗。 99% 的血汗那个叫匠人，不叫艺术家，比如说我举个例子你就明白了，说我们雕刻这个就叫匠人，因为我传承给你，你可以雕出跟我一样的东西，只要你千锤百炼就 ok 了。可是演技这个东西是我个人的理解，我个人的生活阅历以及我对生活的认知，然后总结出来的我的表演方式，你学不来，你也不用学，因为你看到了之后，你演出来的是你对社会的认知，你对生活的感悟和你的表达方式，每个人都是特别的不可替代的，如果你觉得你自己是特别的，那么演戏就不是能学得来的东西。
+
+来源：知乎 www.zhihu.com
+秦海璐
+点击下载
+206 个回答，查看全部。
+演技是一件需要天赋的事吗？
+演耽改的演员可能是因为太想红了吗（不排除剧本好像磨练演技）？]]></summary>
+        <author>
+            <name>秦海璐</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何评价《画江湖之不良人》第四季第 5 集？]]></title>
         <id>http://www.zhihu.com/question/460308083/answer/1895764578</id>
@@ -210,9 +272,9 @@ emmm......好像以单元剧为亮点的奥主线剧情都挺简单的。
 来源：知乎 www.zhihu.com
 科学辟谣
 点击下载
-144 个回答，查看全部。
+147 个回答，查看全部。
 在实现科技自立的路上，如何营造有利于科技创新的环境？
-在科研中，什么算是科学创新，什么算是技术创新，哪个创新更困难呢？]]></summary>
+面对国外不断加码的科技施压，中国企业如何在竞争中实现科技自立？]]></summary>
         <author>
             <name>科学辟谣</name>
         </author>
@@ -515,7 +577,7 @@ Klein, D. N., Kotov, R., & Bufferd, S. J. (2011). Personality and depression: ex
 来源：知乎 www.zhihu.com
 爱画画的王小威
 点击下载
-360 个回答，查看全部。
+359 个回答，查看全部。
 中国有哪些优秀的黑白漫画？
 你们最希望哪个漫画家来中国签售or开展？]]></summary>
         <author>
@@ -682,27 +744,6 @@ Klein, D. N., Kotov, R., & Bufferd, S. J. (2011). Personality and depression: ex
 完全架空世界观，围绕拟人后的文物，也就是秘灵，以修复师的视角来讲关于她们所生活的世界，她们之间…]]></summary>
         <author>
             <name>闵寻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何通过玩游戏拯救地球？应该怎么做？]]></title>
-        <id>http://www.zhihu.com/question/455858774/answer/1847759604</id>
-        <link href="http://www.zhihu.com/question/455858774/answer/1847759604?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title"/>
-        <updated>2021-04-22T11:30:08.000Z</updated>
-        <summary type="html"><![CDATA[放在十年前，“玩游戏，救地球”的设想也许会被视为天方夜谭。
-但十年后的今天，游戏已然成为极具影响力的新兴媒介，世上大约26亿人玩游戏，占总人口的1/3。这个数字仍在不断递增。
-
-随着游戏的影响力越来越大，人们更加重视游戏的正向价值，尝试发掘它的更多潜力。游戏也逐渐与更大的社会议题联系在一起。
-在日益严峻的气候危机背景下，联合国环境署发起“玩游戏，救地球”联盟，与索尼、微软、育碧、天美等游戏厂商携手合作，探索通过游戏的力量，提升大众的环保意识，吸引更多人参与到环保行动中。
-
-身为一名天美人，我很高兴见到游戏公司主动承担更多的社会责任，也对“玩游戏，救地球”的前景充满信心 —— 因为通过游戏推广公益的尝试早已存在了。
-在我的职业生涯中，我曾有幸参与过《见》与《长空暗影》两款公益游戏的制作。《见》是一款模拟视障人群出行体验的作品，而《长空暗影》则是一款专为视障人群设计的“听声音，躲导弹”游戏。
-如何评价腾讯天美做的手机游戏 《见》？
-虽然两者都非环保题材，但希望借此机会分享个人的一些经验，愿对有志投身公益游戏设计的同学能有所启发。
-
-在此之前，我想从游戏设计者的角度，解答一些人心中的疑惑：为何要选择游戏作为公益传播…]]></summary>
-        <author>
-            <name>Waylon</name>
         </author>
     </entry>
 </feed>
