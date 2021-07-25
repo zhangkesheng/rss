@@ -2,135 +2,135 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GITHUB_USERNAME.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-24T00:28:46.341Z</updated>
+    <updated>2021-07-25T00:29:58.323Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://GITHUB_USERNAME.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://GITHUB_USERNAME.github.io/REPO_NAME/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[[推荐] Kubernetes CKA 证书备考笔记]]></title>
-        <id>https://toutiao.io/k/0iresk6</id>
-        <link href="https://toutiao.io/k/0iresk6"/>
-        <updated>2021-07-24T00:28:46.321Z</updated>
-        <summary type="html"><![CDATA[[推荐] Kubernetes CKA 证书备考笔记]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-07-24</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] [译] Kubernetes 必备工具：2021]]></title>
-        <id>https://toutiao.io/k/xbnvrk9</id>
-        <link href="https://toutiao.io/k/xbnvrk9"/>
-        <updated>2021-07-24T00:28:44.324Z</updated>
-        <summary type="html"><![CDATA[[推荐] [译] Kubernetes 必备工具：2021]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-07-24</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[推荐] PHP 转 Go 速学手册]]></title>
         <id>https://toutiao.io/k/d52lqdy</id>
         <link href="https://toutiao.io/k/d52lqdy"/>
-        <updated>2021-07-24T00:28:44.228Z</updated>
+        <updated>2021-07-25T00:29:58.295Z</updated>
         <summary type="html"><![CDATA[[推荐] PHP 转 Go 速学手册]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-07-24</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] Linux 网络新技术基石：​eBPF 和 XDP]]></title>
-        <id>https://toutiao.io/k/goswbka</id>
-        <link href="https://toutiao.io/k/goswbka"/>
-        <updated>2021-07-24T00:28:44.037Z</updated>
-        <summary type="html"><![CDATA[[推荐] Linux 网络新技术基石：​eBPF 和 XDP]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-07-24</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 小白也能看懂的 Java 内存模型]]></title>
-        <id>https://toutiao.io/k/75ecrat</id>
-        <link href="https://toutiao.io/k/75ecrat"/>
-        <updated>2021-07-24T00:28:43.930Z</updated>
-        <summary type="html"><![CDATA[[推荐] 小白也能看懂的 Java 内存模型]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-07-24</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 面试阿里，看这一篇就够了]]></title>
-        <id>https://toutiao.io/k/zdlcy5r</id>
-        <link href="https://toutiao.io/k/zdlcy5r"/>
-        <updated>2021-07-24T00:28:43.780Z</updated>
-        <summary type="html"><![CDATA[[推荐] 面试阿里，看这一篇就够了]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-07-24</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 值得收藏，揭秘 MySQL 多版本并发控制实现原理]]></title>
-        <id>https://toutiao.io/k/r59u142</id>
-        <link href="https://toutiao.io/k/r59u142"/>
-        <updated>2021-07-24T00:28:43.609Z</updated>
-        <summary type="html"><![CDATA[[推荐] 值得收藏，揭秘 MySQL 多版本并发控制实现原理]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-07-24</name>
+            <name>开发者头条:今日头条 2021-07-25</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[[推荐] Spring Boot 如何统一后端返回格式？老鸟们都是这样玩的]]></title>
         <id>https://toutiao.io/k/290ect3</id>
         <link href="https://toutiao.io/k/290ect3"/>
-        <updated>2021-07-24T00:28:43.538Z</updated>
+        <updated>2021-07-25T00:29:58.056Z</updated>
         <summary type="html"><![CDATA[[推荐] Spring Boot 如何统一后端返回格式？老鸟们都是这样玩的]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-07-24</name>
+            <name>开发者头条:今日头条 2021-07-25</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[推荐] 工具 | 阿里巴巴开源的，轻量、高性能、可集成、可扩展的流程引擎]]></title>
-        <id>https://toutiao.io/k/xuszkb1</id>
-        <link href="https://toutiao.io/k/xuszkb1"/>
-        <updated>2021-07-24T00:28:43.287Z</updated>
-        <summary type="html"><![CDATA[[推荐] 工具 | 阿里巴巴开源的，轻量、高性能、可集成、可扩展的流程引擎]]></summary>
+        <title type="html"><![CDATA[[推荐] 13 张图，深入理解 Synchronized]]></title>
+        <id>https://toutiao.io/k/hah7rj1</id>
+        <link href="https://toutiao.io/k/hah7rj1"/>
+        <updated>2021-07-25T00:29:57.994Z</updated>
+        <summary type="html"><![CDATA[[推荐] 13 张图，深入理解 Synchronized]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-07-24</name>
+            <name>开发者头条:今日头条 2021-07-25</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 面试阿里，看这一篇就够了]]></title>
+        <id>https://toutiao.io/k/zdlcy5r</id>
+        <link href="https://toutiao.io/k/zdlcy5r"/>
+        <updated>2021-07-25T00:29:57.832Z</updated>
+        <summary type="html"><![CDATA[[推荐] 面试阿里，看这一篇就够了]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-07-25</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 值得收藏，揭秘 MySQL 多版本并发控制实现原理]]></title>
+        <id>https://toutiao.io/k/r59u142</id>
+        <link href="https://toutiao.io/k/r59u142"/>
+        <updated>2021-07-25T00:29:57.760Z</updated>
+        <summary type="html"><![CDATA[[推荐] 值得收藏，揭秘 MySQL 多版本并发控制实现原理]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-07-25</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[[推荐] TiDB，面向未来的数据库到底是什么？]]></title>
         <id>https://toutiao.io/k/8t9ns8j</id>
         <link href="https://toutiao.io/k/8t9ns8j"/>
-        <updated>2021-07-24T00:28:43.251Z</updated>
+        <updated>2021-07-25T00:29:57.686Z</updated>
         <summary type="html"><![CDATA[[推荐] TiDB，面向未来的数据库到底是什么？]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-07-24</name>
+            <name>开发者头条:今日头条 2021-07-25</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 十二张图，踹开消息队列的大门]]></title>
+        <id>https://toutiao.io/k/bfhn09h</id>
+        <link href="https://toutiao.io/k/bfhn09h"/>
+        <updated>2021-07-25T00:29:57.610Z</updated>
+        <summary type="html"><![CDATA[[推荐] 十二张图，踹开消息队列的大门]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-07-25</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[[推荐] 慢 SQL 排查思路？就这]]></title>
         <id>https://toutiao.io/k/xitokgg</id>
         <link href="https://toutiao.io/k/xitokgg"/>
-        <updated>2021-07-24T00:28:43.127Z</updated>
+        <updated>2021-07-25T00:29:57.544Z</updated>
         <summary type="html"><![CDATA[[推荐] 慢 SQL 排查思路？就这]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-07-24</name>
+            <name>开发者头条:今日头条 2021-07-25</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 小白也能看懂的 Java 内存模型]]></title>
+        <id>https://toutiao.io/k/75ecrat</id>
+        <link href="https://toutiao.io/k/75ecrat"/>
+        <updated>2021-07-25T00:29:57.470Z</updated>
+        <summary type="html"><![CDATA[[推荐] 小白也能看懂的 Java 内存模型]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-07-25</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[[推荐] 如何写好一份 30K Offer 的简历？]]></title>
         <id>https://toutiao.io/k/jghtnwm</id>
         <link href="https://toutiao.io/k/jghtnwm"/>
-        <updated>2021-07-24T00:28:43.051Z</updated>
+        <updated>2021-07-25T00:29:57.371Z</updated>
         <summary type="html"><![CDATA[[推荐] 如何写好一份 30K Offer 的简历？]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-07-24</name>
+            <name>开发者头条:今日头条 2021-07-25</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 工具 | 阿里巴巴开源的，轻量、高性能、可集成、可扩展的流程引擎]]></title>
+        <id>https://toutiao.io/k/xuszkb1</id>
+        <link href="https://toutiao.io/k/xuszkb1"/>
+        <updated>2021-07-25T00:29:57.236Z</updated>
+        <summary type="html"><![CDATA[[推荐] 工具 | 阿里巴巴开源的，轻量、高性能、可集成、可扩展的流程引擎]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-07-25</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] Google 官方开源的推荐系统工具库介绍（含视频教程）]]></title>
+        <id>https://toutiao.io/k/69gbf1t</id>
+        <link href="https://toutiao.io/k/69gbf1t"/>
+        <updated>2021-07-25T00:29:57.158Z</updated>
+        <summary type="html"><![CDATA[[推荐] Google 官方开源的推荐系统工具库介绍（含视频教程）]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-07-25</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[九零后]]></title>
         <id>https://movie.douban.com/subject/35427471</id>
         <link href="https://movie.douban.com/subject/35427471"/>
-        <updated>2021-07-24T00:28:42.555Z</updated>
+        <updated>2021-07-25T00:29:56.767Z</updated>
         <summary type="html"><![CDATA[标题：九零后
 评分：8.2
 片长：110分钟
@@ -142,10 +142,25 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[普罗米亚]]></title>
+        <id>https://movie.douban.com/subject/27080656</id>
+        <link href="https://movie.douban.com/subject/27080656"/>
+        <updated>2021-07-25T00:29:56.640Z</updated>
+        <summary type="html"><![CDATA[标题：普罗米亚
+评分：7.9
+片长：111分钟
+制片国家/地区：日本
+导演：今石洋之
+主演：松山研一 / 早乙女太一 / 堺雅人]]></summary>
+        <author>
+            <name>正在上映的超过 7.5 分的电影</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[情书]]></title>
         <id>https://movie.douban.com/subject/1292220</id>
         <link href="https://movie.douban.com/subject/1292220"/>
-        <updated>2021-07-24T00:28:42.540Z</updated>
+        <updated>2021-07-25T00:29:56.615Z</updated>
         <summary type="html"><![CDATA[标题：情书
 评分：8.9
 片长：117分钟
@@ -160,7 +175,7 @@
         <title type="html"><![CDATA[白蛇传·情]]></title>
         <id>https://movie.douban.com/subject/34825976</id>
         <link href="https://movie.douban.com/subject/34825976"/>
-        <updated>2021-07-24T00:28:42.514Z</updated>
+        <updated>2021-07-25T00:29:56.595Z</updated>
         <summary type="html"><![CDATA[标题：白蛇传·情
 评分：8.2
 片长：101分钟
@@ -172,55 +187,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[困在时间里的父亲]]></title>
-        <id>https://movie.douban.com/subject/33432655</id>
-        <link href="https://movie.douban.com/subject/33432655"/>
-        <updated>2021-07-24T00:28:42.499Z</updated>
-        <summary type="html"><![CDATA[标题：困在时间里的父亲
-评分：8.7
-片长：97分钟
-制片国家/地区：英国 法国
-导演：佛罗莱恩·泽勒
-主演：安东尼·霍普金斯 / 奥利维娅·科尔曼 / 马克·加蒂斯]]></summary>
-        <author>
-            <name>正在上映的超过 7.5 分的电影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普罗米亚]]></title>
-        <id>https://movie.douban.com/subject/27080656</id>
-        <link href="https://movie.douban.com/subject/27080656"/>
-        <updated>2021-07-24T00:28:42.470Z</updated>
-        <summary type="html"><![CDATA[标题：普罗米亚
-评分：7.9
-片长：111分钟
-制片国家/地区：日本
-导演：今石洋之
-主演：松山研一 / 早乙女太一 / 堺雅人]]></summary>
-        <author>
-            <name>正在上映的超过 7.5 分的电影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天堂电影院]]></title>
-        <id>https://movie.douban.com/subject/1291828</id>
-        <link href="https://movie.douban.com/subject/1291828"/>
-        <updated>2021-07-24T00:28:42.416Z</updated>
-        <summary type="html"><![CDATA[标题：天堂电影院
-评分：9.2
-片长：124分钟(中国大陆)
-制片国家/地区：意大利 法国
-导演：朱塞佩·托纳多雷
-主演：菲利普·努瓦雷 / 雅克·贝汉 / 马克·莱昂纳蒂]]></summary>
-        <author>
-            <name>正在上映的超过 7.5 分的电影</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[悬崖之上]]></title>
         <id>https://movie.douban.com/subject/32493124</id>
         <link href="https://movie.douban.com/subject/32493124"/>
-        <updated>2021-07-24T00:28:42.386Z</updated>
+        <updated>2021-07-25T00:29:56.538Z</updated>
         <summary type="html"><![CDATA[标题：悬崖之上
 评分：7.6
 片长：120分钟
@@ -232,25 +202,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[狼行者]]></title>
-        <id>https://movie.douban.com/subject/26694926</id>
-        <link href="https://movie.douban.com/subject/26694926"/>
-        <updated>2021-07-24T00:28:42.368Z</updated>
-        <summary type="html"><![CDATA[标题：狼行者
-评分：7.8
-片长：100分钟
-制片国家/地区：爱尔兰 英国 卢森堡 法国
-导演：汤姆·摩尔 罗斯·斯图尔特
-主演：霍纳·妮芙茜 / 伊娃·惠塔克 / 肖恩·宾]]></summary>
-        <author>
-            <name>正在上映的超过 7.5 分的电影</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[革命者]]></title>
         <id>https://movie.douban.com/subject/35288767</id>
         <link href="https://movie.douban.com/subject/35288767"/>
-        <updated>2021-07-24T00:28:42.187Z</updated>
+        <updated>2021-07-25T00:29:56.278Z</updated>
         <summary type="html"><![CDATA[标题：革命者
 评分：7.5
 片长：121分钟
@@ -262,12 +217,57 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[天堂电影院]]></title>
+        <id>https://movie.douban.com/subject/1291828</id>
+        <link href="https://movie.douban.com/subject/1291828"/>
+        <updated>2021-07-25T00:29:56.251Z</updated>
+        <summary type="html"><![CDATA[标题：天堂电影院
+评分：9.2
+片长：124分钟(中国大陆)
+制片国家/地区：意大利 法国
+导演：朱塞佩·托纳多雷
+主演：菲利普·努瓦雷 / 雅克·贝汉 / 马克·莱昂纳蒂]]></summary>
+        <author>
+            <name>正在上映的超过 7.5 分的电影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[困在时间里的父亲]]></title>
+        <id>https://movie.douban.com/subject/33432655</id>
+        <link href="https://movie.douban.com/subject/33432655"/>
+        <updated>2021-07-25T00:29:56.052Z</updated>
+        <summary type="html"><![CDATA[标题：困在时间里的父亲
+评分：8.7
+片长：97分钟
+制片国家/地区：英国 法国
+导演：佛罗莱恩·泽勒
+主演：安东尼·霍普金斯 / 奥利维娅·科尔曼 / 马克·加蒂斯]]></summary>
+        <author>
+            <name>正在上映的超过 7.5 分的电影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[狼行者]]></title>
+        <id>https://movie.douban.com/subject/26694926</id>
+        <link href="https://movie.douban.com/subject/26694926"/>
+        <updated>2021-07-25T00:29:55.991Z</updated>
+        <summary type="html"><![CDATA[标题：狼行者
+评分：7.8
+片长：100分钟
+制片国家/地区：爱尔兰 英国 卢森堡 法国
+导演：汤姆·摩尔 罗斯·斯图尔特
+主演：霍纳·妮芙茜 / 伊娃·惠塔克 / 肖恩·宾]]></summary>
+        <author>
+            <name>正在上映的超过 7.5 分的电影</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[白蛇2：青蛇劫起]]></title>
         <id>https://movie.douban.com/subject/30435124</id>
         <link href="https://movie.douban.com/subject/30435124"/>
-        <updated>2021-07-24T00:28:42.138Z</updated>
+        <updated>2021-07-25T00:29:55.957Z</updated>
         <summary type="html"><![CDATA[标题：白蛇2：青蛇劫起
-评分：7.6
+评分：7.5
 片长：131分钟
 制片国家/地区：中国大陆
 导演：黄家康
@@ -280,7 +280,7 @@
         <title type="html"><![CDATA[大学]]></title>
         <id>https://movie.douban.com/subject/35470663</id>
         <link href="https://movie.douban.com/subject/35470663"/>
-        <updated>2021-07-24T00:28:42.108Z</updated>
+        <updated>2021-07-25T00:29:55.934Z</updated>
         <summary type="html"><![CDATA[标题：大学
 评分：8.1
 片长：110分钟
@@ -292,61 +292,132 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[推荐] 如何当一个好的技术面试官？]]></title>
-        <id>https://toutiao.io/k/td2y5l7</id>
-        <link href="https://toutiao.io/k/td2y5l7"/>
-        <updated>2021-07-24T00:28:40.665Z</updated>
-        <summary type="html"><![CDATA[[推荐] 如何当一个好的技术面试官？]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-07-24</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[推荐] 2.7 万 Star！这个开源工具把网页变成本地应用程序]]></title>
         <id>https://toutiao.io/k/tfkp07d</id>
         <link href="https://toutiao.io/k/tfkp07d"/>
-        <updated>2021-07-24T00:28:40.457Z</updated>
+        <updated>2021-07-25T00:29:55.051Z</updated>
         <summary type="html"><![CDATA[[推荐] 2.7 万 Star！这个开源工具把网页变成本地应用程序]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-07-24</name>
+            <name>开发者头条:今日头条 2021-07-25</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[[推荐] MySQL 中存储时间的最佳实践]]></title>
         <id>https://toutiao.io/k/ohwsofq</id>
         <link href="https://toutiao.io/k/ohwsofq"/>
-        <updated>2021-07-24T00:28:40.355Z</updated>
+        <updated>2021-07-25T00:29:54.989Z</updated>
         <summary type="html"><![CDATA[[推荐] MySQL 中存储时间的最佳实践]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-07-24</name>
+            <name>开发者头条:今日头条 2021-07-25</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上海发布住房赠与新规 赠与住房纳入限购政策]]></title>
-        <id>http://sh.bendibao.com/news/2021724/242091.shtm</id>
-        <link href="http://sh.bendibao.com/news/2021724/242091.shtm"/>
-        <updated>2021-07-23T23:58:00.000Z</updated>
-        <summary type="html"><![CDATA[2021年7月23日，上海房管局发布《关于加强住房赠与管理的通知》，明确，赠与住房纳入限购政策，5年内仍记入赠与人拥有住房套数，受赠人应符合国家和上海住房限购政策。
-　　通知全文如下 ↓↓
+        <title type="html"><![CDATA[[推荐] 如何当一个好的技术面试官？]]></title>
+        <id>https://toutiao.io/k/td2y5l7</id>
+        <link href="https://toutiao.io/k/td2y5l7"/>
+        <updated>2021-07-25T00:29:54.870Z</updated>
+        <summary type="html"><![CDATA[[推荐] 如何当一个好的技术面试官？]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-07-25</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021台风烟花最新消息 (持续更新)]]></title>
+        <id>http://sh.bendibao.com/news/2021725/242106.shtm</id>
+        <link href="http://sh.bendibao.com/news/2021725/242106.shtm"/>
+        <updated>2021-07-24T23:56:00.000Z</updated>
+        <summary type="html"><![CDATA[2021台风烟花最新消息
+　　(更新时间：2021年7月25日7时)
+　　台风烟花当前位置
+　　今年第6号台风“烟花”的中心7月25日早晨5点钟位于浙江省舟山市东偏南方大约140公里的近海海面上，就是北纬29.3度、东经123.4度，中心附近最大风力有13级(38米/秒)，中心最低气压为965百帕，七级风圈半径为200-300公里，十级风圈半径为80-100公里，十二级风圈半径为40公里。
+　　台风烟花实时路径
 
-
-　　关于加强住房赠与管理的通知
-　　沪建房管联〔2021〕476号
-　　各区住房保障房屋管理局，各房地产交易中心、市房屋状况信息中心，各自然资源确权登记事务中心(不动产登记事务中心)：
-　　为进一步严格执行住房限购政策，现就加强住房赠与管理有关事项通知如下：
-　　一、自2021年7月24日起，通过赠与方式转让住房的，在住房限购政策执行中，该住房自转移登记之日起5年内仍记入赠与人拥有住房套数;受赠人应符合国家和本市住房限购政策。
-　　二、各区自然资源确权登记事务中心(不动产登记事务中心)应将赠与住房转让纳入综合窗口收件;各区房地产交易中心应加强审核，将赠与住房转让纳入房屋交易核验范围(交易核验认定时点以综合窗口收件之日为准)，对赠与当事人不符合住房限购政策的，不予办理交易登记手续。
-　　市住房城乡建设管理委
-　　市房屋管理局
-　　市自然资源确权登记局
-　　2021年7月23日
-
-　　注：本文信息来源于上海市房屋管理局官网。
+　　实时路径系统一 | 中央气象台·台风网
+　　实时路径系统二 | 浙江水利厅·台风路径
+　　台风烟花登陆地点
+　　“烟花”将以每小时15-20公里的速度向西偏北方向移动，并将于7月25日中午到傍晚在浙江象山到江苏启东一带沿海登陆(台风级，12-13级，33-38米/秒)。登陆后强度逐渐减弱，并有可能在华东地区回旋。
+　　台风烟花风雨预报
+　　■大风预报：7月25日08时至26日08时，黄海南部、东海、台湾海峡及钓鱼岛附近海域、长江口区、杭州湾、江苏中南部及沿海、上海及沿海、浙江及沿海、福建中北部沿海、台湾岛西部沿海将有6-8级大风，阵风9-11级，其中东海大部、黄海西南部海域、浙江中北部及沿海、长江口区、杭州湾、上海及沿海、江苏东南部及沿海的风力有9-11级，阵风12-14级，台风中心经过的附近海域或地区风力可达12-13级，阵风14-16级。
+　　■降水预报：7月25日08时至26日08时，浙江中北部、上海、江苏南部、安徽南部、台湾岛南部等地的部分地区有大雨或暴雨，其中，浙江北部、上海、江苏东南部、安徽东南部等地的部分地区有大暴雨，浙江北部局地有特大暴雨(250-360毫米)。
+　　台风烟花对上海的影响
+　　风雨影响：上海7月25日-26日有暴雨到大暴雨
+　　航班取消：上海两大机场所有进出港航班取消
+　　火车停运：长三角铁路停运车次一览
+　　ps：本文信息来源于中央气象台官网、上海发布、上海铁路局、上海机场集团等。
 
 
 
 
 --->
+
+温馨提示：关注上海本地宝微信公众号(shbendibao), 输入框回复 烟花，即可获取2021年第六号台风烟花登陆时间及地点，查询实时路径；还可查看外围对上海的影响(大风+降雨)，地铁火车航班等停运、关闭景区、积水路段及查询方式等。
+
+
+
+手机访问 上海本地宝首页]]></summary>
+        <author>
+            <name>上海本地宝焦点资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海7月25日-7月26日有暴雨到大暴雨]]></title>
+        <id>http://sh.bendibao.com/news/2021724/242100.shtm</id>
+        <link href="http://sh.bendibao.com/news/2021724/242100.shtm"/>
+        <updated>2021-07-24T23:14:00.000Z</updated>
+        <summary type="html"><![CDATA[上海气象服务中心2021年7月24日17时消息：
+　　今年第6号台风“烟花”7月24日16时中心位于距离上海中心城区东南约490公里的海面上(北纬27.4度，东经124.2度)，中心附近最大风力有13级(40米/秒)，中心最低气压为960百帕。
+　　预计“烟花”将以每小时15公里左右的速度向北偏西方向移动，强度变化不大，逐渐向浙江中北部沿海靠近，最大可能将于25日下午到26日凌晨在浙江舟山到象山沿海一带登陆，登陆后强度逐渐减弱，并有可能在华东地区回旋。
+　　上海市有暴雨到大暴雨
+　　台风烟花最大可能于7月25日下午到上半夜在浙江舟山到象山沿海一带登陆，7月24日至26日，本市有明显风雨影响。
+　　• 风的影响
+　　7月24日夜里起本市风力将明显增大，7月25～26日继续增强到陆地阵风10～12级，沿江沿海地区和长江口区11～13级，洋山港区和上海市沿海海面13～15级。
+　　• 雨的影响
+　　强降水主要集中在7月25～26日，雨量可达暴雨到大暴雨，局部地区有特大暴雨，过程累积雨量150～200毫米，局部地区250～350毫米，小时最大雨量40～60毫米，局部大于80毫米。
+
+　　• 交通影响
+　　据市交通委指挥中心，受大风影响，7月24日10时00分起，市轮渡线全部停航。10时45分，复兴路隧道、大连路隧道浦西往浦东方向均启动非机动车过江预案。
+　　据市道运中心，因台风“烟花”影响，7月24日本市长途客运站预计停发班次148班，主要涉及浙江舟山，台州，宁波地区及福建方向班次。
+　　其中，长途南站截至7月24日9：30时，受台风影响，已停运115班次，涉及地区主要为宁波地区、舟山地区、台州地区; 涉及大致方向为：普陀、宁波、余姚、慈溪、北仑、上虞、宁海、路桥等方向。25日长途南站初步预计停班142班，涉及地区和方向与24日大致相同。
+　　据上海机场集团，截至7月24日11:00，浦东机场执行进港204架次、执行出港184架次，进港取消200架次，出港取消173架次。未出港航班中，延误1-2小时航班27架次，延误2小时以上12架次。虹桥机场截至11:00，执行进港49架次、执行出港105架次，进港取消27架次，出港取消24架次。未出港航班中，延误1-2小时航班0架次，延误2小时以上0架次。请您留意天气及航班变动，合理安排出行。
+
+
+
+
+--->
+
+温馨提示：关注上海本地宝微信公众号(shbendibao), 输入框回复 烟花，即可获取2021年第六号台风烟花登陆时间及地点，查询实时路径；还可查看外围对上海的影响(大风+降雨)，地铁火车交通停运、关闭景区、积水路段及查询方式等。
+
+
+
+手机访问 上海本地宝首页]]></summary>
+        <author>
+            <name>上海本地宝焦点资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海两大机场所有客运进出港航班取消]]></title>
+        <id>http://sh.bendibao.com/news/2021725/242105.shtm</id>
+        <link href="http://sh.bendibao.com/news/2021725/242105.shtm"/>
+        <updated>2021-07-24T16:05:00.000Z</updated>
+        <summary type="html"><![CDATA[上海机场集团2021年7月24日消息：
+　　受台风“烟花”影响，2021年7月25日全天，上海浦东机场和虹桥机场，所有客运进出港航班取消，请旅客及时合理安排出行。更多信息可通过所乘航空公司或机场服务热线、官网等查询。
+　　部分航空公司服务热线
+
+
+
+　　注：信息来源于上海发布、上海机场集团微博。
+
+
+
+
+
+
+
+--->
+
+温馨提示：关注上海本地宝微信公众号(shbendibao), 输入框回复 烟花，即可获取2021年第六号台风烟花登陆时间及地点，查询实时路径；还可查看外围对上海的影响(大风+降雨)，地铁火车航班等停运、关闭景区、积水路段及查询方式等。
+
+
 
 手机访问 上海本地宝首页]]></summary>
         <author>
@@ -357,10 +428,10 @@
         <title type="html"><![CDATA[受台风烟花影响 上海这些景区宣布闭园]]></title>
         <id>http://sh.bendibao.com/news/2021722/242038.shtm</id>
         <link href="http://sh.bendibao.com/news/2021722/242038.shtm"/>
-        <updated>2021-07-23T10:00:00.000Z</updated>
+        <updated>2021-07-24T11:31:00.000Z</updated>
         <summary type="html"><![CDATA[2021年第六号台风烟花将于7月24日至25日在浙江沿海一带登陆，外围影响上海。为确保游客出行安全，上海金山城市沙滩、碧海金沙、廊下生态园等景区宣布闭园，详情如下。
 上海关闭景区汇总
-(更新时间：2021年7月23日)
+(更新时间：2021年7月24日)
 　　1.  上海薰衣草公园
 　　闭园时间：7月24日提前至17点闭园；7月25日-7月26日全天闭园
 　　由于受第6号台风烟花的影响，为确保游客出行安全，上海薰衣草公园将于2021年7月24日(周六)提前至17点闭园，7月25日-7月26日全天闭园。
@@ -375,11 +446,6 @@
 　　开园时间：另行通知
 　　由于受第6号台风烟花的影响，为确保游客出行安全，廊下生态园景区将于2021年7月24日(周六)起开始闭园，开园时间另行通知。
 
-　　廊下郊野公园
-　　具体地址：上海市金山区漕廊公路9133号
-　　公交路线：市区—莲花路地铁站北广场—公交莲廊专线—廊下郊野公园游客中心
-　　自驾游线路：沪闵高架—沪杭高速(G60)—大港转G1503(新农方向)—S19(张堰—廊下)出口下—张溪路右拐—漕廊公路右拐—廊下郊野公园游客中心
-　　咨询电话：021-57395422
 　　4. 上海长兴岛郊野公园
 　　闭园时间：7月24日起
 　　开园时间：另行通知
@@ -389,22 +455,28 @@
 　　闭园时间：7月24日-25日
 　　由于受第6号台风烟花的影响，为确保游客出行安全，上海共青森林公园将于2021年7月24日(周六)-25日(周日)起开始闭园。7月24日(周六)-26日(周一)，“果园公园手拉手,新鲜果品进万家”果品推介活动暂停。
 
-　　6. 花博文化园
+　　6. 上海滨江森林公园
+　　闭园时间：7月24日-26日
+　　由于受第6号台风烟花的影响，为确保游客出行安全，上海滨江森林公园将于2021年7月24日(周六)-26日(周一)起开始闭园。
+
+　　7. 上海海湾森林公园
+　　闭园时间：7月23日16:30起
+　　开园时间：另行通知
+　　由于受第6号台风烟花的影响，为确保游客出行安全，上海海湾森林公园将于7月23日16:30起开始闭园。
+
+　　8 花博文化园
 　　闭园时间：7月24日起
 　　开园时间：另行通知
 　　由于受第6号台风烟花的影响，为确保游客出行安全，花博文化园将于2021年7月24日(周六)起开始闭园，开园时间另行通知。
 
-　　7. 新浜荷花节
-　　闭园时间：7月24日起
+　　9.顾村公园
+　　闭园时间：7月24日12:00起
 　　开园时间：另行通知
-　　由于受第6号台风烟花的影响，为确保游客出行安全，新浜荷花节将于2021年7月24日(周六)起开始闭园，开园时间另行通知。
-　　8. 上海锦江乐园
+　　因受今年第6号台风“烟花”影响，为确保游客出行安全，顾村公园将于2021年7月24日(周六)12:00起开始闭园，开园时间另行通知。
+　　10. 上海锦江乐园
 　　闭园时间：7月24日起
 　　开园时间：另行通知
 　　因受今年第6号台风“烟花”影响，为确保游客出行安全，锦江乐园及锦江乐园夜市将于2021年7月24日(周六)起开始闭园/闭市，开园/开市时间另行通知。
-　　9. 上海四行仓库抗战纪念馆
-　　闭园时间：7月25日
-　　受强台风“烟花”影响，上海预计将有暴雨、局部大暴雨，为保障公共安全，上海四行仓库抗战纪念馆将于7月25日(周日)临时闭馆一天。
 
 
 
@@ -416,19 +488,20 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[烟花预计7月25日下午在浙江舟山到玉环沿海登陆]]></title>
-        <id>http://sh.bendibao.com/news/2021723/242070.shtm</id>
-        <link href="http://sh.bendibao.com/news/2021723/242070.shtm"/>
-        <updated>2021-07-23T05:31:00.000Z</updated>
-        <summary type="html"><![CDATA[中央气象台2021年7月23日13时最新预报：
-　　今年第六号台风“烟花”正以每小时15公里左右的速度向西北方向移动，强度还将有所加强，7月23日傍晚前后移入东海东南部海面，然后逐渐向浙江中北部一带沿海靠近，并将于25日下午到26日凌晨在浙江舟山到玉环一带沿海登陆(台风级或强台风级，13-14级，38-45米/秒)，登陆后强度逐渐减弱。
-　　由于多系统相互作用，台风“烟花”登陆地段及登陆后路径尚存变数。登陆后，“烟花”有可能在华东地区回旋，带来长时间的强降雨。
-　　台风烟花对上海的影响
-　　上海市气象服务中心消息：受“烟花”影响，上海将有明显风雨天气，7月24～26日雨量可达暴雨，局地大暴雨。由于“烟花”行动缓慢，在华东沿海滞留时间较长，对上海的影响时间也较长。
-　　台风“烟花"动态
+        <title type="html"><![CDATA[长三角铁路停运车次一览 (附查询方式)]]></title>
+        <id>http://sh.bendibao.com/traffic/2021724/242101.shtm</id>
+        <link href="http://sh.bendibao.com/traffic/2021724/242101.shtm"/>
+        <updated>2021-07-24T11:20:00.000Z</updated>
+        <summary type="html"><![CDATA[上海铁路局2021年7月24日消息：
+　　针对今年第6号台风“烟花”可能带来的影响，为确保旅客列车运行安全，铁路部门决定自7月24日-7月29日，对杭深铁路宁波至温州段、沪昆高铁和沪昆铁路义乌至诸暨段、杭甬铁路、金温铁路间列车采取临时停运措施。
+　　受台风烟花影响 长三角铁路停运车次一览
+　　(ps：退票不收取手续费)
 
-　　今年第6号台风“烟花”(强台风级)的中心7月23日上午11点钟位于浙江省象山县东南方向约640公里的台湾以东洋面上，就是北纬24.5度、东经125.3度，中心附近最大风力有14级(42米/秒)，中心最低气压为955百帕，七级风圈半径为200-300公里，十级风圈半径为70-100公里，十二级风圈半径为40公里。
-　　台风防御指引
+　　铁路部门提醒旅客：
+　　停运列车车次及时间等相关信息，请以车站公告为准，若有疑问可致电铁路客服热线021-12306咨询。已购买停运列车车票的旅客，可于票面乘车日期起30日内(含当日)在互联网办理退票，或持购票时所使用的有效身份证件原件到车站专窗退票(已打印报销凭证的请将凭证交予车站窗口工作人员)，以上均不收取手续费。
+　　旅客可关注中国铁路12306铁路客服网站公告，以及“长三角铁路”微博、微信信息，查询列车停运及正晚点动态，以便合理安排行程。下一步，铁路部门将密切关注台风路径变化，根据风速雨量和灾害影响程度等实际，动态调整列车开行方案，保障旅客安全出行需要。
+　　铁路停运查询方式 ↓↓
+　　打开【铁路12306】APP，首页底部停运公告，即可查询更多火车停运消息。
 
 
 
@@ -436,7 +509,42 @@
 
 --->
 
-温馨提示：关注上海本地宝微信公众号(shbendibao), 输入框回复 烟花，即可获取2021年第六号台风烟花登陆时间及地点，查询实时路径；还可查看外围对上海的影响(大风+降雨)，天气预警、关闭景区、积水路段及查询方式等。
+温馨提示：关注上海本地宝微信公众号(shbendibao), 输入框回复 烟花，即可获取2021年第六号台风烟花登陆时间及地点，查询实时路径；还可查看外围对上海的影响(大风+降雨)，地铁火车交通停运、关闭景区、积水路段及查询方式等。
+
+
+
+手机访问 上海本地宝首页]]></summary>
+        <author>
+            <name>上海本地宝焦点资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月23日31省区市新增13例本土确诊]]></title>
+        <id>http://sh.bendibao.com/news/2021724/242094.shtm</id>
+        <link href="http://sh.bendibao.com/news/2021724/242094.shtm"/>
+        <updated>2021-07-24T03:33:00.000Z</updated>
+        <summary type="html"><![CDATA[31省区市新增13例本土确诊
+　　7月23日0—24时，31个省(自治区、直辖市)和新疆生产建设兵团报告新增确诊病例35例，其中境外输入病例22例(广东5例，云南5例，福建4例，四川3例，上海2例，天津1例，河南1例，湖北1例)，本土病例13例(江苏12例，四川1例);无新增死亡病例;无新增疑似病例。
+　　当日新增治愈出院病例17例，解除医学观察的密切接触者484人，重症病例较前一日减少1例。
+　　境外输入现有确诊病例566例(其中重症病例15例)，现有疑似病例3例。累计确诊病例7183例，累计治愈出院病例6617例，无死亡病例。
+　　截至7月23日24时，据31个省(自治区、直辖市)和新疆生产建设兵团报告，现有确诊病例681例(其中重症病例16例)，累计治愈出院病例87180例，累计死亡病例4636例，累计报告确诊病例92497例，现有疑似病例3例。累计追踪到密切接触者1074416人，尚在医学观察的密切接触者9761人。
+　　31个省(自治区、直辖市)和新疆生产建设兵团报告新增无症状感染者20例，其中境外输入16例，本土4例(均在江苏);当日转为确诊病例4例(均为境外输入);当日解除医学观察23例(均为境外输入);尚在医学观察的无症状感染者444例(境外输入415例)。
+　　累计收到港澳台地区通报确诊病例27564例。其中，香港特别行政区11973例(出院11693例，死亡212例)，澳门特别行政区56例(出院53例)，台湾地区15535例(出院12501例，死亡784例)。
+　　(注：信息来自国家卫生健康委员会官方网站。)
+　　江苏南京新增12例本土确诊
+　　7月23日0-24时，江苏新增本土确诊病例12例(均在南京市定点医院治疗)。截至7月23日24时，全省累计报告确诊病例788例(其中境外输入121例)，除35例本土确诊病例和10例境外输入确诊病例在定点医院隔离治疗外，其余均已出院。
+　　当日新增本土无症状感染者4例，新增境外输入无症状感染者1例，解除集中隔离和医学管理1例。截至7月23日24时，正在集中隔离和医学管理的无症状感染者42例(其中境外输入23例，本土19例)。
+　　目前，全省追踪到确诊病例和无症状感染者的密切接触者21391人，已解除医学观察20156人，尚有1235人正在接受医学观察。
+　　四川绵阳新增1例本土确诊
+　　7月23日下午，在对南京市中高风险地区来(返)绵人员排查核酸检测中，发现1例新冠肺炎核酸初筛阳性人员，经绵阳市疾控中心复核为阳性，临床诊断为新冠肺炎确诊病例(轻型)。
+　　截至7月24日6:30，患者病情稳定，已排查出确诊病例密切接触者191人，次密切接触者194人，已按程序和相关防控要求落实管控措施，开展核酸检测采样12345人，已出检测结果12345人，除确诊病例杨某外均为阴性。
+
+
+
+
+--->
+
+温馨提示：微信关注上海本地宝公众号(shbendibao), 输入框回复 新冠疫苗，即可获取上单位员工/社区居民、在沪外籍人士等各类人群新冠疫苗预约攻略(预约入口/接种点)。查看新冠疫苗接种热点问答。回复 风险，查看全国最新中高风险名单。
 
 
 
@@ -549,84 +657,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[leetcode每日一题系列-检查是否区域内所有整数都被覆盖]]></title>
-        <id>https://juejin.cn/post/6988043534783741982</id>
-        <link href="https://juejin.cn/post/6988043534783741982"/>
-        <updated>2021-07-23T00:59:43.000Z</updated>
-        <summary type="html"><![CDATA[@charset "UTF-8";.markdown-body{word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#2b2b2b;font-family:-apple-system,system-ui,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Arial,sans-serif;background-image:linear-gradient(90deg,rgba(159,219,252,.15) 3%,transparent 0),linear-gradient(1turn,rgba(159,219,252,.15) 3%,transparent 0);background-size:20px 20px;background-position:50%}.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6{padding:30px 0;margin-top:35px;margin-bottom:10px;color:#4dd0e1}.markdown-body h1{font-size:30px;text-align:center;position:relative;width:max-content;margin:0 auto}.markdown-body h1:before{position:absolute;content:"";z-index:-1;top:-…]]></summary>
-        <author>
-            <name>saberlgy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自定义starter自动配置]]></title>
-        <id>https://juejin.cn/post/6988042392045617166</id>
-        <link href="https://juejin.cn/post/6988042392045617166"/>
-        <updated>2021-07-23T00:54:07.000Z</updated>
-        <summary type="html"><![CDATA[.markdown-body{word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333}.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6{line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px}.markdown-body h1{font-size:30px;margin-bottom:5px}.markdown-body h2{padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec}.markdown-body h3{font-size:18px;padding-bottom:0}.markdown-body h4{font-size:16px}.markdown-body h5{font-size:15px}.markdown-body h6{margin-top:5px}.markdown-body p{line-height:inherit;margin-top:22px;margin-bottom:22px}.markdown-body img{max-width:100%}.markdown-body hr{border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px}.markdown-body code{word-b…]]></summary>
-        <author>
-            <name>起床就看爆发力</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JVM垃圾收集算法详解]]></title>
-        <id>https://juejin.cn/post/6988041507441737765</id>
-        <link href="https://juejin.cn/post/6988041507441737765"/>
-        <updated>2021-07-23T00:51:08.000Z</updated>
-        <summary type="html"><![CDATA[@charset "UTF-8";@keyframes spin{0%{transform:rotate(0)}to{transform:rotate(1turn)}}.markdown-body{word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#36ace1;background-image:linear-gradient(90deg,rgba(217,234,251,.25) 3%,transparent 0),linear-gradient(1turn,rgba(217,234,251,.25) 3%,transparent 0);background-size:20px 20px;background-position:50%}.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6{color:#36ace1}.markdown-body h1:before,.markdown-body h2:before,.markdown-body h3:before,.markdown-body h4:before,.markdown-body h5:before,.markdown-body h6:before{content:"";display:block;position:absolute;left:0;top:0;bottom:0;margin:auto;background-image:url(data:image/png;base64,iVBORw0KGgoAAAAN…]]></summary>
-        <author>
-            <name>Alone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7月22日31省区市新增12例本土确诊 均在江苏]]></title>
-        <id>http://sh.bendibao.com/news/2021723/242052.shtm</id>
-        <link href="http://sh.bendibao.com/news/2021723/242052.shtm"/>
-        <updated>2021-07-23T00:48:00.000Z</updated>
-        <summary type="html"><![CDATA[31省区市新增12例本土确诊 均在江苏
-　　7月22日0—24时，31个省(自治区、直辖市)和新疆生产建设兵团报告新增确诊病例48例，其中境外输入病例36例(广东14例，云南13例，上海3例，四川2例，陕西2例，天津1例，湖北1例)，本土病例12例(均在江苏);无新增死亡病例;新增疑似病例3例，均为境外输入病例(均在上海)。
-　　当日新增治愈出院病例23例，解除医学观察的密切接触者363人，重症病例较前一日增加1例。
-　　境外输入现有确诊病例561例(其中重症病例15例)，现有疑似病例4例。累计确诊病例7161例，累计治愈出院病例6600例，无死亡病例。
-　　截至7月22日24时，据31个省(自治区、直辖市)和新疆生产建设兵团报告，现有确诊病例663例(其中重症病例17例)，累计治愈出院病例87163例，累计死亡病例4636例，累计报告确诊病例92462例，现有疑似病例4例。累计追踪到密切接触者1072912人，尚在医学观察的密切接触者8742人。
-　　31个省(自治区、直辖市)和新疆生产建设兵团报告新增无症状感染者35例，其中境外输入25例，本土10例(江苏7例，辽宁1例，安徽1例，广东1例);当日转为确诊病例9例(均为境外输入);当日解除医学观察31例(均为境外输入);尚在医学观察的无症状感染者451例(境外输入426例)。
-　　累计收到港澳台地区通报确诊病例27538例。其中，香港特别行政区11971例(出院11690例，死亡212例)，澳门特别行政区56例(出院53例)，台湾地区15511例(出院12456例，死亡782例)。
-　　(注：信息来自国家卫生健康委员会官方网站。)
-
-
-
-
---->
-
-温馨提示：微信关注上海本地宝公众号(shbendibao), 输入框回复 新冠疫苗，即可获取上单位员工/社区居民、在沪外籍人士等各类人群新冠疫苗预约攻略(预约入口/接种点)。查看新冠疫苗接种热点问答。回复 风险，查看全国最新中高风险名单。
-
-
-
-手机访问 上海本地宝首页]]></summary>
-        <author>
-            <name>上海本地宝焦点资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring AOP 详解]]></title>
-        <id>https://juejin.cn/post/6988039507941523487</id>
-        <link href="https://juejin.cn/post/6988039507941523487"/>
-        <updated>2021-07-23T00:43:18.000Z</updated>
-        <summary type="html"><![CDATA[@charset "UTF-8";.markdown-body{word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#2b2b2b;font-family:-apple-system,system-ui,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Arial,sans-serif;background-image:linear-gradient(90deg,rgba(159,219,252,.15) 3%,transparent 0),linear-gradient(1turn,rgba(159,219,252,.15) 3%,transparent 0);background-size:20px 20px;background-position:50%}.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6{padding:30px 0;margin-top:35px;margin-bottom:10px;color:#4dd0e1}.markdown-body h1{font-size:30px;text-align:center;position:relative;width:max-content;margin:0 auto}.markdown-body h1:before{position:absolute;content:"";z-index:-1;top:-…]]></summary>
-        <author>
-            <name>loger_lhc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自我封装的基于go-gin的web服务框架]]></title>
-        <id>https://juejin.cn/post/6988038944227065863</id>
-        <link href="https://juejin.cn/post/6988038944227065863"/>
-        <updated>2021-07-23T00:40:22.000Z</updated>
-        <summary type="html"><![CDATA[.markdown-body{word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333}.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6{line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px}.markdown-body h1{font-size:30px;margin-bottom:5px}.markdown-body h2{padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec}.markdown-body h3{font-size:18px;padding-bottom:0}.markdown-body h4{font-size:16px}.markdown-body h5{font-size:15px}.markdown-body h6{margin-top:5px}.markdown-body p{line-height:inherit;margin-top:22px;margin-bottom:22px}.markdown-body img{max-width:100%}.markdown-body hr{border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px}.markdown-body code{word-b…]]></summary>
-        <author>
-            <name>沙蒿同学</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Defense Grid: The Awakening]]></title>
         <id>https://www.epicgames.com/store/zh-CN/product/defense-grid</id>
         <link href="https://www.epicgames.com/store/zh-CN/product/defense-grid"/>
@@ -644,71 +674,6 @@
         <summary type="html"><![CDATA[Verdun]]></summary>
         <author>
             <name>Epic 游戏限免</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021上海高考本科普通批投档线公布(专业组+Q组)]]></title>
-        <id>http://sh.bendibao.com/news/2021722/242042.shtm</id>
-        <link href="http://sh.bendibao.com/news/2021722/242042.shtm"/>
-        <updated>2021-07-22T10:24:00.000Z</updated>
-        <summary type="html"><![CDATA[2021年7月22日，上海市教育考试院公布了2021年上海高考本科普通批次院校专业组投档线，具体详见下表。 (特别提示：上海高考满分为660分。)
-　　2021上海高考本科普通批专业组投档线
-
-　　2021上海高考本科普通批Q组投档线
-
-　　注：考生应结合本人填报的本科普通批次所有院校专业组志愿情况，按序逐一比对每个志愿对应的投档线。判断是否被投档至Q组时，应先检索Q组志愿之前的所有志愿。
-　　温馨提示：
-　　为贯彻落实教育部关于做好普通高考招生录取工作的有关要求，积极营造尊重考生兴趣选择的良好导向，避免发生炒作高分段考生投档情况等现象，本市自2020年起不再分校公布本科普通批次高分段院校专业组投档线。2021年对此类投档线继续统一表述为“580分及以上”，相关院校专业组包括：复旦大学(01)、复旦大学(02)、复旦大学(03)、复旦大学医学院(01)、上海交通大学(01)、上海交通大学医学院(01)、中国人民大学(01)、中国科技大学(01)等8个专业组。
-　　580分及以上考生的本科普通批投档信息将由市教育考试院会同考生所在中学逐一告知;580分以下考生请对照下表结合本人志愿填报情况自行判断投档去向(部分院校Q组投档结果另行公布)。
-
-
-
-
---->
-
-温馨提示：微信关注上海本地宝公众号(shbendibao)，对话框回复 高考，获取2021上海高考各批次录取查询时间，各批次录取查询入口、以及2021上海高考本科普通批投档线完整版等实用信息。
-
-
-手机访问 上海本地宝首页]]></summary>
-        <author>
-            <name>上海本地宝焦点资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021台风烟花路径实时发布系统入口]]></title>
-        <id>http://sh.bendibao.com/news/2021722/242024.shtm</id>
-        <link href="http://sh.bendibao.com/news/2021722/242024.shtm"/>
-        <updated>2021-07-22T07:09:00.000Z</updated>
-        <summary type="html"><![CDATA[2021台风烟花路径实时发布系统
-　　实时路径发布系统一 |  中央气象台·台风网 
-　　实时路径发布系统二 | 浙江水利厅·台风路径 
-　　台风烟花登陆地点
-　　(更新时间：2021年7月22日15时)
-　　今年第6号台风“烟花”(强台风级)将以每小时5-10公里的速度向西偏北方向移动，强度逐渐加强，最强可达超强台风级(16级，52-55米/秒)，7月23日下午移入东海东南部海面，然后转向西北方向移动，逐渐向浙江北部到福建北部一带沿海靠近，并将于24日夜间到25日白天在上述沿海登陆(台风级或强台风级，12-14级，35-42米/秒)。
-　　目前尚不能完全排除在浙江近海海面北上的可能。
-　　台风预警
-　　■大风预报：7月22日14时至23日14时，台湾海峡、巴士海峡、台湾以东洋面、东海及钓鱼岛附近海域、黄海南部、长江口区、杭州湾、江苏南部沿海、浙江沿海、福建中北部沿海、台湾岛沿海将有6-8级大风，阵风10-11级，其中浙江东北部沿海、东海东南部和台湾以东洋面的部分海域的风力有9-12级，阵风13-14级，台风中心经过的附近海域或地区风力可达13-16级，阵风17级及以上。
-　　■ 降水预报：7月22日14时至23日14时，浙江中北部沿海、台湾岛大部有大到暴雨，局地有大暴雨(100-160mm)。
-　　防御指南
-　　1. 政府及相关部门按照职责做好防台风抢险应急工作。
-　　2. 相关水域水上作业和过往船舶应当回港避风，加固港口设施，防止船舶走锚、搁浅和碰撞。
-　　3. 停止室内外大型集会和高空等户外危险作业。
-　　4. 加固或者拆除易被风吹动的搭建物,人员切勿随意外出，应尽可能待在防风安全的地方，确保老人小孩留在家中最安全的地方，危房人员及时转移。当台风中心经过时风力会减小或者静止一段时间，切记强风将会突然吹袭，应当继续留在安全处避风，危房人员及时转移。
-　　5. 相关地区应当注意防范强降水可能引发的山洪、地质灾害。
-　　注：本文信息来源于中央气象局官网。
-
-
-
-
---->
-
-温馨提示：关注上海本地宝微信公众号(shbendibao), 输入框回复 烟花，即可获取2021年第六号台风烟花登陆时间及地点，查询实时路径；还可查看外围对上海的影响(大风+降雨)，天气预警、关闭景区、积水路段及查询方式等。
-
-
-
-手机访问 上海本地宝首页]]></summary>
-        <author>
-            <name>上海本地宝焦点资讯</name>
         </author>
     </entry>
     <entry>
