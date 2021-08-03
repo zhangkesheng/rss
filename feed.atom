@@ -2,251 +2,191 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://GITHUB_USERNAME.github.io/REPO_NAME/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T00:30:46.191Z</updated>
+    <updated>2021-08-03T00:33:38.975Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://GITHUB_USERNAME.github.io/REPO_NAME/index.html"/>
     <link rel="self" href="https://GITHUB_USERNAME.github.io/REPO_NAME/feed.atom"/>
     <entry>
+        <title type="html"><![CDATA[[推荐] PHP 转 Go 速学手册]]></title>
+        <id>https://toutiao.io/k/d52lqdy</id>
+        <link href="https://toutiao.io/k/d52lqdy"/>
+        <updated>2021-08-03T00:33:37.666Z</updated>
+        <summary type="html"><![CDATA[[推荐] PHP 转 Go 速学手册]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-08-03</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[推荐] 将你的 Windows，快速打造成 Docker 工作站]]></title>
         <id>https://toutiao.io/k/138vl3z</id>
         <link href="https://toutiao.io/k/138vl3z"/>
-        <updated>2021-08-02T00:30:46.175Z</updated>
+        <updated>2021-08-03T00:33:37.395Z</updated>
         <summary type="html"><![CDATA[[推荐] 将你的 Windows，快速打造成 Docker 工作站]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
+            <name>开发者头条:今日头条 2021-08-03</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[推荐] 刷 LeetCode，进字节、阿里等一线大厂，刷题之前一定先打好底层基础]]></title>
-        <id>https://toutiao.io/k/cmj9lvn</id>
-        <link href="https://toutiao.io/k/cmj9lvn"/>
-        <updated>2021-08-02T00:30:46.110Z</updated>
-        <summary type="html"><![CDATA[[推荐] 刷 LeetCode，进字节、阿里等一线大厂，刷题之前一定先打好底层基础]]></summary>
+        <title type="html"><![CDATA[[推荐] 秒杀系统你必须知道的 9 个细节]]></title>
+        <id>https://toutiao.io/k/ghq07ln</id>
+        <link href="https://toutiao.io/k/ghq07ln"/>
+        <updated>2021-08-03T00:33:37.306Z</updated>
+        <summary type="html"><![CDATA[[推荐] 秒杀系统你必须知道的 9 个细节]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 值得收藏，揭秘 MySQL 多版本并发控制实现原理]]></title>
-        <id>https://toutiao.io/k/r59u142</id>
-        <link href="https://toutiao.io/k/r59u142"/>
-        <updated>2021-08-02T00:30:46.039Z</updated>
-        <summary type="html"><![CDATA[[推荐] 值得收藏，揭秘 MySQL 多版本并发控制实现原理]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 如何使用 DDD 指导微服务拆分？]]></title>
-        <id>https://toutiao.io/k/3yzh7i0</id>
-        <link href="https://toutiao.io/k/3yzh7i0"/>
-        <updated>2021-08-02T00:30:45.965Z</updated>
-        <summary type="html"><![CDATA[[推荐] 如何使用 DDD 指导微服务拆分？]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[十万火急！不重启应用怎么查 GC 日志？Arthas 来搞定]]></title>
-        <id>https://toutiao.io/k/xpwu2ac</id>
-        <link href="https://toutiao.io/k/xpwu2ac"/>
-        <updated>2021-08-02T00:30:45.887Z</updated>
-        <summary type="html"><![CDATA[十万火急！不重启应用怎么查 GC 日志？Arthas 来搞定]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 初探 Redis 客户端 Lettuce：真香]]></title>
-        <id>https://toutiao.io/k/b17y9l2</id>
-        <link href="https://toutiao.io/k/b17y9l2"/>
-        <updated>2021-08-02T00:30:45.822Z</updated>
-        <summary type="html"><![CDATA[[推荐] 初探 Redis 客户端 Lettuce：真香]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] [译] 全网最全的 Go 书单来喽]]></title>
-        <id>https://toutiao.io/k/aaf9fw0</id>
-        <link href="https://toutiao.io/k/aaf9fw0"/>
-        <updated>2021-08-02T00:30:45.738Z</updated>
-        <summary type="html"><![CDATA[[推荐] [译] 全网最全的 Go 书单来喽]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
+            <name>开发者头条:今日头条 2021-08-03</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[[推荐] 树莓派家用指北]]></title>
         <id>https://toutiao.io/k/h2njn7z</id>
         <link href="https://toutiao.io/k/h2njn7z"/>
-        <updated>2021-08-02T00:30:45.658Z</updated>
+        <updated>2021-08-03T00:33:37.218Z</updated>
         <summary type="html"><![CDATA[[推荐] 树莓派家用指北]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反混淆 "控制流平坦化" 思路及实践]]></title>
-        <id>https://toutiao.io/k/nn4n41o</id>
-        <link href="https://toutiao.io/k/nn4n41o"/>
-        <updated>2021-08-02T00:30:45.572Z</updated>
-        <summary type="html"><![CDATA[反混淆 "控制流平坦化" 思路及实践]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 最近 GitHub 上很火的 7 个项目]]></title>
-        <id>https://toutiao.io/k/3ybk9zj</id>
-        <link href="https://toutiao.io/k/3ybk9zj"/>
-        <updated>2021-08-02T00:30:45.504Z</updated>
-        <summary type="html"><![CDATA[[推荐] 最近 GitHub 上很火的 7 个项目]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 最多能创建多少个 TCP 连接？]]></title>
-        <id>https://toutiao.io/k/x2l5h9z</id>
-        <link href="https://toutiao.io/k/x2l5h9z"/>
-        <updated>2021-08-02T00:30:45.442Z</updated>
-        <summary type="html"><![CDATA[[推荐] 最多能创建多少个 TCP 连接？]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点 7 月份 yyds 的开源项目]]></title>
-        <id>https://toutiao.io/k/i4jzqp3</id>
-        <link href="https://toutiao.io/k/i4jzqp3"/>
-        <updated>2021-08-02T00:30:45.367Z</updated>
-        <summary type="html"><![CDATA[盘点 7 月份 yyds 的开源项目]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 送给水深火热的 Gopher 们的一剂解药]]></title>
-        <id>https://toutiao.io/k/jzpfpqy</id>
-        <link href="https://toutiao.io/k/jzpfpqy"/>
-        <updated>2021-08-02T00:30:45.305Z</updated>
-        <summary type="html"><![CDATA[[推荐] 送给水深火热的 Gopher 们的一剂解药]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 你的站点抗压么？推荐一款超方便的开源压测工具]]></title>
-        <id>https://toutiao.io/k/gz48fpu</id>
-        <link href="https://toutiao.io/k/gz48fpu"/>
-        <updated>2021-08-02T00:30:45.243Z</updated>
-        <summary type="html"><![CDATA[[推荐] 你的站点抗压么？推荐一款超方便的开源压测工具]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[推荐] 用 Go 轻松完成一个 TCC 分布式事务，保姆级教程]]></title>
-        <id>https://toutiao.io/k/lxic89h</id>
-        <link href="https://toutiao.io/k/lxic89h"/>
-        <updated>2021-08-02T00:30:45.148Z</updated>
-        <summary type="html"><![CDATA[[推荐] 用 Go 轻松完成一个 TCC 分布式事务，保姆级教程]]></summary>
-        <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
+            <name>开发者头条:今日头条 2021-08-03</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[[推荐] 5000 字长文解析：带你解读阿里大数据建设方法论 OneData]]></title>
         <id>https://toutiao.io/k/oyyyjrr</id>
         <link href="https://toutiao.io/k/oyyyjrr"/>
-        <updated>2021-08-02T00:30:45.079Z</updated>
+        <updated>2021-08-03T00:33:37.133Z</updated>
         <summary type="html"><![CDATA[[推荐] 5000 字长文解析：带你解读阿里大数据建设方法论 OneData]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
+            <name>开发者头条:今日头条 2021-08-03</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[保姆级教学，22 张图揭开 ThreadLocal]]></title>
-        <id>https://toutiao.io/k/098z7ei</id>
-        <link href="https://toutiao.io/k/098z7ei"/>
-        <updated>2021-08-02T00:30:45.008Z</updated>
-        <summary type="html"><![CDATA[保姆级教学，22 张图揭开 ThreadLocal]]></summary>
+        <title type="html"><![CDATA[[推荐] 初探 Redis 客户端 Lettuce：真香]]></title>
+        <id>https://toutiao.io/k/b17y9l2</id>
+        <link href="https://toutiao.io/k/b17y9l2"/>
+        <updated>2021-08-03T00:33:37.052Z</updated>
+        <summary type="html"><![CDATA[[推荐] 初探 Redis 客户端 Lettuce：真香]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
+            <name>开发者头条:今日头条 2021-08-03</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[烈火中永生]]></title>
-        <id>https://movie.douban.com/subject/1807966</id>
-        <link href="https://movie.douban.com/subject/1807966"/>
-        <updated>2021-08-02T00:30:43.922Z</updated>
-        <summary type="html"><![CDATA[标题：烈火中永生
-评分：7.7
-片长：138分钟
+        <title type="html"><![CDATA[[推荐] 最近 GitHub 上很火的 7 个项目]]></title>
+        <id>https://toutiao.io/k/3ybk9zj</id>
+        <link href="https://toutiao.io/k/3ybk9zj"/>
+        <updated>2021-08-03T00:33:36.963Z</updated>
+        <summary type="html"><![CDATA[[推荐] 最近 GitHub 上很火的 7 个项目]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-08-03</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] Spring Boot 如何统一后端返回格式？老鸟们都是这样玩的]]></title>
+        <id>https://toutiao.io/k/290ect3</id>
+        <link href="https://toutiao.io/k/290ect3"/>
+        <updated>2021-08-03T00:33:36.896Z</updated>
+        <summary type="html"><![CDATA[[推荐] Spring Boot 如何统一后端返回格式？老鸟们都是这样玩的]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-08-03</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 慢 SQL 排查思路？就这]]></title>
+        <id>https://toutiao.io/k/xitokgg</id>
+        <link href="https://toutiao.io/k/xitokgg"/>
+        <updated>2021-08-03T00:33:36.807Z</updated>
+        <summary type="html"><![CDATA[[推荐] 慢 SQL 排查思路？就这]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-08-03</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 送给水深火热的 Gopher 们的一剂解药]]></title>
+        <id>https://toutiao.io/k/jzpfpqy</id>
+        <link href="https://toutiao.io/k/jzpfpqy"/>
+        <updated>2021-08-03T00:33:36.694Z</updated>
+        <summary type="html"><![CDATA[[推荐] 送给水深火热的 Gopher 们的一剂解药]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-08-03</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团 App 页面视图可测性改造实践]]></title>
+        <id>https://toutiao.io/k/x6lik53</id>
+        <link href="https://toutiao.io/k/x6lik53"/>
+        <updated>2021-08-03T00:33:36.619Z</updated>
+        <summary type="html"><![CDATA[美团 App 页面视图可测性改造实践]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-08-03</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 最多能创建多少个 TCP 连接？]]></title>
+        <id>https://toutiao.io/k/x2l5h9z</id>
+        <link href="https://toutiao.io/k/x2l5h9z"/>
+        <updated>2021-08-03T00:33:36.535Z</updated>
+        <summary type="html"><![CDATA[[推荐] 最多能创建多少个 TCP 连接？]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-08-03</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RefineMask：实例分割，使用细粒度信息增强性能]]></title>
+        <id>https://toutiao.io/k/vj0znd1</id>
+        <link href="https://toutiao.io/k/vj0znd1"/>
+        <updated>2021-08-03T00:33:36.458Z</updated>
+        <summary type="html"><![CDATA[RefineMask：实例分割，使用细粒度信息增强性能]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-08-03</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据地图？地图数据？傻傻分不清楚]]></title>
+        <id>https://toutiao.io/k/w332r73</id>
+        <link href="https://toutiao.io/k/w332r73"/>
+        <updated>2021-08-03T00:33:36.362Z</updated>
+        <summary type="html"><![CDATA[数据地图？地图数据？傻傻分不清楚]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-08-03</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[推荐] 刷 LeetCode，进字节、阿里等一线大厂，刷题之前一定先打好底层基础]]></title>
+        <id>https://toutiao.io/k/cmj9lvn</id>
+        <link href="https://toutiao.io/k/cmj9lvn"/>
+        <updated>2021-08-03T00:33:36.227Z</updated>
+        <summary type="html"><![CDATA[[推荐] 刷 LeetCode，进字节、阿里等一线大厂，刷题之前一定先打好底层基础]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-08-03</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一分钟教你 Android、iOS 如何实现自动化录屏，超实用]]></title>
+        <id>https://toutiao.io/k/x1og4db</id>
+        <link href="https://toutiao.io/k/x1og4db"/>
+        <updated>2021-08-03T00:33:36.106Z</updated>
+        <summary type="html"><![CDATA[一分钟教你 Android、iOS 如何实现自动化录屏，超实用]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-08-03</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 年 3 款产品百万级增长方法论]]></title>
+        <id>https://toutiao.io/k/ajioit9</id>
+        <link href="https://toutiao.io/k/ajioit9"/>
+        <updated>2021-08-03T00:33:35.995Z</updated>
+        <summary type="html"><![CDATA[3 年 3 款产品百万级增长方法论]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-08-03</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[野火春风斗古城]]></title>
+        <id>https://movie.douban.com/subject/1483955</id>
+        <link href="https://movie.douban.com/subject/1483955"/>
+        <updated>2021-08-03T00:33:35.775Z</updated>
+        <summary type="html"><![CDATA[标题：野火春风斗古城
+评分：7.5
+片长：106分钟
 制片国家/地区：中国大陆
-导演：水华
-主演：赵丹 / 于蓝 / 张平]]></summary>
-        <author>
-            <name>正在上映的超过 7.5 分的电影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[红海行动]]></title>
-        <id>https://movie.douban.com/subject/26861685</id>
-        <link href="https://movie.douban.com/subject/26861685"/>
-        <updated>2021-08-02T00:30:43.685Z</updated>
-        <summary type="html"><![CDATA[标题：红海行动
-评分：8.2
-片长：138分钟
-制片国家/地区：中国大陆 中国香港
-导演：林超贤
-主演：张译 / 黄景瑜 / 海清]]></summary>
-        <author>
-            <name>正在上映的超过 7.5 分的电影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地道战]]></title>
-        <id>https://movie.douban.com/subject/3033864</id>
-        <link href="https://movie.douban.com/subject/3033864"/>
-        <updated>2021-08-02T00:30:43.622Z</updated>
-        <summary type="html"><![CDATA[标题：地道战
-评分：8.2
-片长：101分钟
-制片国家/地区：中国大陆
-导演：任旭东
-主演：朱龙广 / 张勇手 / 刘秀杰]]></summary>
-        <author>
-            <name>正在上映的超过 7.5 分的电影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[湄公河行动]]></title>
-        <id>https://movie.douban.com/subject/25815034</id>
-        <link href="https://movie.douban.com/subject/25815034"/>
-        <updated>2021-08-02T00:30:43.581Z</updated>
-        <summary type="html"><![CDATA[标题：湄公河行动
-评分：8
-片长：124分钟
-制片国家/地区：中国大陆 中国香港
-导演：林超贤
-主演：张涵予 / 彭于晏 / 孙淳]]></summary>
-        <author>
-            <name>正在上映的超过 7.5 分的电影</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[困在时间里的父亲]]></title>
-        <id>https://movie.douban.com/subject/33432655</id>
-        <link href="https://movie.douban.com/subject/33432655"/>
-        <updated>2021-08-02T00:30:43.552Z</updated>
-        <summary type="html"><![CDATA[标题：困在时间里的父亲
-评分：8.7
-片长：97分钟
-制片国家/地区：英国 法国
-导演：佛罗莱恩·泽勒
-主演：安东尼·霍普金斯 / 奥利维娅·科尔曼 / 马克·加蒂斯]]></summary>
+导演：严寄洲
+主演：王晓棠 / 王心刚 / 陈立中]]></summary>
         <author>
             <name>正在上映的超过 7.5 分的电影</name>
         </author>
@@ -255,7 +195,7 @@
         <title type="html"><![CDATA[英雄儿女]]></title>
         <id>https://movie.douban.com/subject/1438091</id>
         <link href="https://movie.douban.com/subject/1438091"/>
-        <updated>2021-08-02T00:30:43.517Z</updated>
+        <updated>2021-08-03T00:33:35.756Z</updated>
         <summary type="html"><![CDATA[标题：英雄儿女
 评分：7.9
 片长：109分钟
@@ -267,10 +207,40 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[冰山上的来客]]></title>
+        <id>https://movie.douban.com/subject/1422286</id>
+        <link href="https://movie.douban.com/subject/1422286"/>
+        <updated>2021-08-03T00:33:35.722Z</updated>
+        <summary type="html"><![CDATA[标题：冰山上的来客
+评分：7.9
+片长：101分钟
+制片国家/地区：中国大陆
+导演：赵心水
+主演：梁音 / 谷毓英 / 恩和森]]></summary>
+        <author>
+            <name>正在上映的超过 7.5 分的电影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[湄公河行动]]></title>
+        <id>https://movie.douban.com/subject/25815034</id>
+        <link href="https://movie.douban.com/subject/25815034"/>
+        <updated>2021-08-03T00:33:35.701Z</updated>
+        <summary type="html"><![CDATA[标题：湄公河行动
+评分：8
+片长：124分钟
+制片国家/地区：中国大陆 中国香港
+导演：林超贤
+主演：张涵予 / 彭于晏 / 孙淳]]></summary>
+        <author>
+            <name>正在上映的超过 7.5 分的电影</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[普罗米亚]]></title>
         <id>https://movie.douban.com/subject/27080656</id>
         <link href="https://movie.douban.com/subject/27080656"/>
-        <updated>2021-08-02T00:30:43.500Z</updated>
+        <updated>2021-08-03T00:33:35.667Z</updated>
         <summary type="html"><![CDATA[标题：普罗米亚
 评分：7.9
 片长：111分钟
@@ -282,10 +252,40 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[红海行动]]></title>
+        <id>https://movie.douban.com/subject/26861685</id>
+        <link href="https://movie.douban.com/subject/26861685"/>
+        <updated>2021-08-03T00:33:35.645Z</updated>
+        <summary type="html"><![CDATA[标题：红海行动
+评分：8.2
+片长：138分钟
+制片国家/地区：中国大陆 中国香港
+导演：林超贤
+主演：张译 / 黄景瑜 / 海清]]></summary>
+        <author>
+            <name>正在上映的超过 7.5 分的电影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[烈火中永生]]></title>
+        <id>https://movie.douban.com/subject/1807966</id>
+        <link href="https://movie.douban.com/subject/1807966"/>
+        <updated>2021-08-03T00:33:35.602Z</updated>
+        <summary type="html"><![CDATA[标题：烈火中永生
+评分：7.7
+片长：138分钟
+制片国家/地区：中国大陆
+导演：水华
+主演：赵丹 / 于蓝 / 张平]]></summary>
+        <author>
+            <name>正在上映的超过 7.5 分的电影</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[白蛇传·情]]></title>
         <id>https://movie.douban.com/subject/34825976</id>
         <link href="https://movie.douban.com/subject/34825976"/>
-        <updated>2021-08-02T00:30:43.409Z</updated>
+        <updated>2021-08-03T00:33:35.523Z</updated>
         <summary type="html"><![CDATA[标题：白蛇传·情
 评分：8.2
 片长：101分钟
@@ -297,16 +297,31 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[情书]]></title>
-        <id>https://movie.douban.com/subject/1292220</id>
-        <link href="https://movie.douban.com/subject/1292220"/>
-        <updated>2021-08-02T00:30:43.382Z</updated>
-        <summary type="html"><![CDATA[标题：情书
-评分：8.9
-片长：117分钟
-制片国家/地区：日本
-导演：岩井俊二
-主演：中山美穗 / 丰川悦司 / 酒井美纪]]></summary>
+        <title type="html"><![CDATA[地道战]]></title>
+        <id>https://movie.douban.com/subject/3033864</id>
+        <link href="https://movie.douban.com/subject/3033864"/>
+        <updated>2021-08-03T00:33:35.503Z</updated>
+        <summary type="html"><![CDATA[标题：地道战
+评分：8.2
+片长：101分钟
+制片国家/地区：中国大陆
+导演：任旭东
+主演：朱龙广 / 张勇手 / 刘秀杰]]></summary>
+        <author>
+            <name>正在上映的超过 7.5 分的电影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[九零后]]></title>
+        <id>https://movie.douban.com/subject/35427471</id>
+        <link href="https://movie.douban.com/subject/35427471"/>
+        <updated>2021-08-03T00:33:35.437Z</updated>
+        <summary type="html"><![CDATA[标题：九零后
+评分：8.2
+片长：110分钟
+制片国家/地区：中国大陆
+导演：徐蓓
+主演：杨振宁 / 杨苡 / 巫宁坤]]></summary>
         <author>
             <name>正在上映的超过 7.5 分的电影</name>
         </author>
@@ -315,7 +330,7 @@
         <title type="html"><![CDATA[天堂电影院]]></title>
         <id>https://movie.douban.com/subject/1291828</id>
         <link href="https://movie.douban.com/subject/1291828"/>
-        <updated>2021-08-02T00:30:43.353Z</updated>
+        <updated>2021-08-03T00:33:35.009Z</updated>
         <summary type="html"><![CDATA[标题：天堂电影院
 评分：9.2
 片长：124分钟(中国大陆)
@@ -327,16 +342,16 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[革命者]]></title>
-        <id>https://movie.douban.com/subject/35288767</id>
-        <link href="https://movie.douban.com/subject/35288767"/>
-        <updated>2021-08-02T00:30:43.166Z</updated>
-        <summary type="html"><![CDATA[标题：革命者
-评分：7.5
-片长：121分钟
-制片国家/地区：中国大陆
-导演：徐展雄
-主演：张颂文 / 李易峰 / 佟丽娅]]></summary>
+        <title type="html"><![CDATA[情书]]></title>
+        <id>https://movie.douban.com/subject/1292220</id>
+        <link href="https://movie.douban.com/subject/1292220"/>
+        <updated>2021-08-03T00:33:34.899Z</updated>
+        <summary type="html"><![CDATA[标题：情书
+评分：8.9
+片长：117分钟
+制片国家/地区：日本
+导演：岩井俊二
+主演：中山美穗 / 丰川悦司 / 酒井美纪]]></summary>
         <author>
             <name>正在上映的超过 7.5 分的电影</name>
         </author>
@@ -345,7 +360,7 @@
         <title type="html"><![CDATA[狼行者]]></title>
         <id>https://movie.douban.com/subject/26694926</id>
         <link href="https://movie.douban.com/subject/26694926"/>
-        <updated>2021-08-02T00:30:42.944Z</updated>
+        <updated>2021-08-03T00:33:34.737Z</updated>
         <summary type="html"><![CDATA[标题：狼行者
 评分：7.8
 片长：100分钟
@@ -360,7 +375,7 @@
         <title type="html"><![CDATA[怒火·重案]]></title>
         <id>https://movie.douban.com/subject/30174085</id>
         <link href="https://movie.douban.com/subject/30174085"/>
-        <updated>2021-08-02T00:30:42.850Z</updated>
+        <updated>2021-08-03T00:33:34.715Z</updated>
         <summary type="html"><![CDATA[标题：怒火·重案
 评分：7.7
 片长：128分钟
@@ -372,16 +387,16 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[盛夏未来]]></title>
-        <id>https://movie.douban.com/subject/35158124</id>
-        <link href="https://movie.douban.com/subject/35158124"/>
-        <updated>2021-08-02T00:30:42.822Z</updated>
-        <summary type="html"><![CDATA[标题：盛夏未来
-评分：7.5
-片长：115分钟
-制片国家/地区：中国大陆
-导演：陈正道
-主演：张子枫 / 吴磊 / 郝蕾]]></summary>
+        <title type="html"><![CDATA[困在时间里的父亲]]></title>
+        <id>https://movie.douban.com/subject/33432655</id>
+        <link href="https://movie.douban.com/subject/33432655"/>
+        <updated>2021-08-03T00:33:34.641Z</updated>
+        <summary type="html"><![CDATA[标题：困在时间里的父亲
+评分：8.7
+片长：97分钟
+制片国家/地区：英国 法国
+导演：佛罗莱恩·泽勒
+主演：安东尼·霍普金斯 / 奥利维娅·科尔曼 / 马克·加蒂斯]]></summary>
         <author>
             <name>正在上映的超过 7.5 分的电影</name>
         </author>
@@ -390,7 +405,7 @@
         <title type="html"><![CDATA[大学]]></title>
         <id>https://movie.douban.com/subject/35470663</id>
         <link href="https://movie.douban.com/subject/35470663"/>
-        <updated>2021-08-02T00:30:42.795Z</updated>
+        <updated>2021-08-03T00:33:34.606Z</updated>
         <summary type="html"><![CDATA[标题：大学
 评分：8
 片长：110分钟
@@ -402,42 +417,138 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[盛夏未来]]></title>
+        <id>https://movie.douban.com/subject/35158124</id>
+        <link href="https://movie.douban.com/subject/35158124"/>
+        <updated>2021-08-03T00:33:34.542Z</updated>
+        <summary type="html"><![CDATA[标题：盛夏未来
+评分：7.5
+片长：115分钟
+制片国家/地区：中国大陆
+导演：陈正道
+主演：张子枫 / 吴磊 / 郝蕾]]></summary>
+        <author>
+            <name>正在上映的超过 7.5 分的电影</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[革命者]]></title>
+        <id>https://movie.douban.com/subject/35288767</id>
+        <link href="https://movie.douban.com/subject/35288767"/>
+        <updated>2021-08-03T00:33:34.495Z</updated>
+        <summary type="html"><![CDATA[标题：革命者
+评分：7.5
+片长：121分钟
+制片国家/地区：中国大陆
+导演：徐展雄
+主演：张颂文 / 李易峰 / 佟丽娅]]></summary>
+        <author>
+            <name>正在上映的超过 7.5 分的电影</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[推荐] 书单 | 这些书，可以让你构建经得住考验的架构系统]]></title>
         <id>https://toutiao.io/k/t51adta</id>
         <link href="https://toutiao.io/k/t51adta"/>
-        <updated>2021-08-02T00:30:42.766Z</updated>
+        <updated>2021-08-03T00:33:34.078Z</updated>
         <summary type="html"><![CDATA[[推荐] 书单 | 这些书，可以让你构建经得住考验的架构系统]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
+            <name>开发者头条:今日头条 2021-08-03</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[[推荐] 程序员可能必读书单推荐（一）]]></title>
         <id>https://toutiao.io/k/2fstxk5</id>
         <link href="https://toutiao.io/k/2fstxk5"/>
-        <updated>2021-08-02T00:30:42.070Z</updated>
+        <updated>2021-08-03T00:33:33.732Z</updated>
         <summary type="html"><![CDATA[[推荐] 程序员可能必读书单推荐（一）]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
+            <name>开发者头条:今日头条 2021-08-03</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iOS 程序员所有的资源]]></title>
-        <id>https://toutiao.io/k/sif3l68</id>
-        <link href="https://toutiao.io/k/sif3l68"/>
-        <updated>2021-08-02T00:30:41.350Z</updated>
-        <summary type="html"><![CDATA[iOS 程序员所有的资源]]></summary>
+        <title type="html"><![CDATA[8月2日上海新增1例本地确诊病例]]></title>
+        <id>http://sh.bendibao.com/news/202183/242490.shtm</id>
+        <link href="http://sh.bendibao.com/news/202183/242490.shtm"/>
+        <updated>2021-08-03T00:09:00.000Z</updated>
+        <summary type="html"><![CDATA[上海市卫健委2021年8月3日通报：
+　　上海新增1例本地确诊病例
+　　2021年8月2日0—24时，上海新增本地新冠肺炎确诊病例1例。
+　　该病例常住浦东新区，为浦东机场货运区外航货机服务人员。按单位要求赴医疗机构进行核酸检测，结果为阳性。8月2日，市疾控中心核酸检测复核结果为阳性。经专家组会诊，综合临床、影像学表现和实验室核酸检测结果，诊断为新冠肺炎确诊病例。
+　　■ 已追踪密接者43人 均已隔离
+　　已追踪到其在本市的密切接触者43人，均已落实集中隔离观察。对病例曾活动过的场所已进行终末消毒。
+　　■ 病例涉及区域和场所
+　　根据流行病学调查，8月2日确诊本地病例涉及区域和场所的情况如下：
+　　浦东新区：川沙新镇华夏二路心圆西苑小区、工农饭店(乔家弄8号—10号)、永和大王(妙境路店)
+　　注：对查明的密切接触者已全部隔离医学观察，对有确诊病例的场所等已告知当地，并严格落实了相关消毒措施。
+　　上海新增3例境外输入病例
+　　2021年8月2日0—24时，通过口岸联防联控机制，报告3例境外输入性新冠肺炎确诊病例。新增治愈出院4例，其中来自台湾地区2例，来自日本1例，来自美国1例。
+　　•病例1：中国籍，在挪威留学，自挪威出发，经丹麦转机，于2021年7月28日抵达上海浦东国际机场，入关后即被集中隔离观察，其间出现症状。综合流行病学史、临床症状、实验室检测和影像学检查结果等，诊断为确诊病例。
+　　•病例2：台湾地区居民，在台湾地区生活，自台湾地区出发，于2021年7月30日抵达上海浦东国际机场，入关后即被集中隔离观察，其间出现症状。综合流行病学史、临床症状、实验室检测和影像学检查结果等，诊断为确诊病例。
+　　•病例3：中国籍，在泰国工作，自泰国出发，于2021年7月31日抵达上海浦东国际机场，入关后即被集中隔离观察，其间出现症状。综合流行病学史、临床症状、实验室检测和影像学检查结果等，诊断为确诊病例。
+　　3例境外输入性确诊病例已转至定点医疗机构救治，已追踪同航班密切接触者48人，均已落实集中隔离观察。
+　　截至2021年8月2日24时，累计境外输入性确诊病例1946例，出院1886例，在院治疗60例。现有待排查的疑似病例0例。
+　　截至2021年8月2日24时，累计本地确诊病例372例，治愈出院364例，在院治疗1例，死亡7例。现有待排查的疑似病例0例。
+　　截至2021年8月2日24时，尚在医学观察中的无症状感染者0例。
+
+
+
+
+
+--->
+
+温馨提示：关注上海本地宝微信公众号(shbendibao), 输入框回复 【疫情】，查看2021上海浦东疫情最新消息/进展。回复 【新冠疫苗】，查看上海新冠疫苗接种点。回复 【核酸】，查看上海核酸检测机构名单。
+
+手机访问 上海本地宝首页]]></summary>
         <author>
-            <name>开发者头条:今日头条 2021-08-02</name>
+            <name>上海本地宝焦点资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 环境下 vi/vim 编辑器常用命令｜8月更文挑战]]></title>
+        <id>https://juejin.cn/post/6991967818589667335</id>
+        <link href="https://juejin.cn/post/6991967818589667335"/>
+        <updated>2021-08-02T14:56:40.000Z</updated>
+        <summary type="html"><![CDATA[.markdown-body{word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333}.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6{line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px}.markdown-body h1{font-size:30px;margin-bottom:5px}.markdown-body h2{padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec}.markdown-body h3{font-size:18px;padding-bottom:0}.markdown-body h4{font-size:16px}.markdown-body h5{font-size:15px}.markdown-body h6{margin-top:5px}.markdown-body p{line-height:inherit;margin-top:22px;margin-bottom:22px}.markdown-body img{max-width:100%}.markdown-body hr{border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px}.markdown-body code{word-b…]]></summary>
+        <author>
+            <name>杰哥的IT之旅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浦东机场一名外航货机服务人员核酸检测阳性]]></title>
+        <id>http://sh.bendibao.com/news/202182/242488.shtm</id>
+        <link href="http://sh.bendibao.com/news/202182/242488.shtm"/>
+        <updated>2021-08-02T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[据上海市防控办消息，
+　　8月2日下午，上海浦东一医疗机构报告，发现浦东机场货运区一名外航货机服务人员新冠病毒核酸检测阳性。接报后，疾控机构立即对相关人员及场所开展排查处置、流调采样，并进行实验室检测复核。
+　　后续情况将及时向社会公布。
+
+　　有网友留言提问：川沙有个小区封了
+　　对此“上海发布”进行了回应：疾控机构在对相关人员及场所开展排查处置、流调采样。
+　　大家继续做好个人防护，积极接种疫苗!
+　　出门戴口罩、勤洗手、多通风、不聚集
+
+
+
+
+--->
+
+　　温馨提示: 微信关注 上海本地宝 公众号(shbendibao), 输入框 回复 核酸，即可查看上海各区核酸检测网点地址信息。回复  新冠疫苗，查看上海各区新冠疫苗接种点。尽快接种疫苗，做好个人防护
+
+
+
+手机访问 上海本地宝首页]]></summary>
+        <author>
+            <name>上海本地宝焦点资讯</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[全国现有4个高风险地区+92个中风险地区]]></title>
         <id>http://sh.bendibao.com/news/2021731/242432.shtm</id>
         <link href="http://sh.bendibao.com/news/2021731/242432.shtm"/>
-        <updated>2021-08-01T22:56:00.000Z</updated>
+        <updated>2021-08-02T08:34:00.000Z</updated>
         <summary type="html"><![CDATA[2021年8月中高风险地区最新名单
-(截至时间：2021年8月2日)
+(截至时间：2021年8月15日)
 
 高风险地区(4个)
 
@@ -453,7 +564,7 @@
 
 
 
-中风险地区 (92个)
+中风险地区 (114个)
 
  ✉ 云南省：2个
 • 德宏州：
@@ -462,7 +573,7 @@
 
 瑞丽市弄岛镇雷允村委会雷允村民小组
 
-✉ 江苏省：50个
+✉ 江苏省：71个
 • 南京市：
 
 江宁区淳化街道新林村郭村自然村
@@ -523,82 +634,42 @@
 
 雨花台区铁心桥街道景明佳园小区
 
-江宁区湖熟街道周岗社区围合…]]></summary>
+江宁区湖熟街道周岗社区…]]></summary>
         <author>
             <name>上海本地宝焦点资讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[在 docker 容器内安装 vim 问题记录｜8月更文挑战]]></title>
-        <id>https://juejin.cn/post/6991451867871969287</id>
-        <link href="https://juejin.cn/post/6991451867871969287"/>
-        <updated>2021-08-01T05:24:21.000Z</updated>
-        <summary type="html"><![CDATA[.markdown-body{color:#595959;font-size:15px;font-family:-apple-system,system-ui,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Arial,sans-serif;background-image:linear-gradient(90deg,rgba(60,10,30,.04) 3%,transparent 0),linear-gradient(1turn,rgba(60,10,30,.04) 3%,transparent 0);background-size:20px 20px;background-position:50%}.markdown-body p{color:#595959;font-size:15px;line-height:2;font-weight:400}.markdown-body p+p{margin-top:16px}.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6{padding:30px 0;margin:0;color:#135ce0}.markdown-body h1{position:relative;text-align:center;font-size:22px;margin:50px 0}.markdown-body h1:before{position:absolute;content:"";top:-10px;left:50%;width:32px;height:32px;tra…]]></summary>
-        <author>
-            <name>锐玩道</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用redis实现聊天记录转存｜8月更文挑战]]></title>
-        <id>https://juejin.cn/post/6991449103171321870</id>
-        <link href="https://juejin.cn/post/6991449103171321870"/>
-        <updated>2021-08-01T05:13:44.000Z</updated>
-        <summary type="html"><![CDATA[.markdown-body{word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333}.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6{line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px}.markdown-body h1{font-size:30px;margin-bottom:5px}.markdown-body h2{padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec}.markdown-body h3{font-size:18px;padding-bottom:0}.markdown-body h4{font-size:16px}.markdown-body h5{font-size:15px}.markdown-body h6{margin-top:5px}.markdown-body p{line-height:inherit;margin-top:22px;margin-bottom:22px}.markdown-body img{max-width:100%}.markdown-body hr{border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px}.markdown-body code{word-b…]]></summary>
-        <author>
-            <name>神奇的程序员</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[synchronized 加锁 this 和 class 的区别！｜ 8月更文挑战]]></title>
-        <id>https://juejin.cn/post/6991428725980037151</id>
-        <link href="https://juejin.cn/post/6991428725980037151"/>
-        <updated>2021-08-01T03:55:41.000Z</updated>
+        <title type="html"><![CDATA[synchronized 优化手段之锁膨胀机制｜ 8月更文挑战]]></title>
+        <id>https://juejin.cn/post/6991850044462727199</id>
+        <link href="https://juejin.cn/post/6991850044462727199"/>
+        <updated>2021-08-02T07:10:11.000Z</updated>
         <summary type="html"><![CDATA[.markdown-body{word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333}.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6{line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px}.markdown-body h1{font-size:30px;margin-bottom:5px}.markdown-body h2{padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec}.markdown-body h3{font-size:18px;padding-bottom:0}.markdown-body h4{font-size:16px}.markdown-body h5{font-size:15px}.markdown-body h6{margin-top:5px}.markdown-body p{line-height:inherit;margin-top:22px;margin-bottom:22px}.markdown-body img{max-width:100%}.markdown-body hr{border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px}.markdown-body code{word-b…]]></summary>
         <author>
             <name>Java中文社群</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SpringBoot应用篇@Value配置自动刷新能力扩展实践｜ 8月更文挑战]]></title>
-        <id>https://juejin.cn/post/6991413014847029262</id>
-        <link href="https://juejin.cn/post/6991413014847029262"/>
-        <updated>2021-08-01T02:55:51.000Z</updated>
-        <summary type="html"><![CDATA[.markdown-body{word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333}.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6{line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px}.markdown-body h1{font-size:30px;margin-bottom:5px}.markdown-body h2{padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec}.markdown-body h3{font-size:18px;padding-bottom:0}.markdown-body h4{font-size:16px}.markdown-body h5{font-size:15px}.markdown-body h6{margin-top:5px}.markdown-body p{line-height:inherit;margin-top:22px;margin-bottom:22px}.markdown-body img{max-width:100%}.markdown-body hr{border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px}.markdown-body code{word-b…]]></summary>
-        <author>
-            <name>一灰灰</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[考研数据结构有关串的总结归纳及代码实现｜ 8月更文挑战]]></title>
-        <id>https://juejin.cn/post/6991400359478427662</id>
-        <link href="https://juejin.cn/post/6991400359478427662"/>
-        <updated>2021-08-01T02:04:40.000Z</updated>
-        <summary type="html"><![CDATA[@charset "UTF-8";.markdown-body{word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#2b2b2b;font-family:-apple-system,system-ui,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Arial,sans-serif;background-image:linear-gradient(90deg,rgba(159,219,252,.15) 3%,transparent 0),linear-gradient(1turn,rgba(159,219,252,.15) 3%,transparent 0);background-size:20px 20px;background-position:50%}.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6{padding:30px 0;margin-top:35px;margin-bottom:10px;color:#4dd0e1}.markdown-body h1{font-size:30px;text-align:center;position:relative;width:max-content;margin:0 auto}.markdown-body h1:before{position:absolute;content:"";z-index:-1;top:-…]]></summary>
-        <author>
-            <name>有出路</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7月31日31省份新增本土确诊53例 涉及8省]]></title>
-        <id>http://sh.bendibao.com/news/202181/242444.shtm</id>
-        <link href="http://sh.bendibao.com/news/202181/242444.shtm"/>
-        <updated>2021-08-01T01:44:00.000Z</updated>
-        <summary type="html"><![CDATA[31省份新增本土确诊53例 涉及8省
-　　7月31日0—24时，31个省(自治区、直辖市)和新疆生产建设兵团报告新增确诊病例75例，其中境外输入病例22例(云南7例，上海5例，天津3例，内蒙古2例，广东2例，浙江1例，河南1例，四川1例)，本土病例53例(江苏30例，河南12例，湖南4例，云南3例，福建1例，山东1例，湖北1例，宁夏1例);无新增死亡病例;新增疑似病例1例，为境外输入病例(在上海)。
-　　当日新增治愈出院病例24例，解除医学观察的密切接触者715人，重症病例较前一日减少1例。
-　　境外输入现有确诊病例670例(其中重症病例17例)，现有疑似病例2例。累计确诊病例7432例，累计治愈出院病例6762例，无死亡病例。
-　　截至7月31日24时，据31个省(自治区、直辖市)和新疆生产建设兵团报告，现有确诊病例1022例(其中重症病例25例)，累计治愈出院病例87347例，累计死亡病例4636例，累计报告确诊病例93005例，现有疑似病例2例。累计追踪到密切接触者1093589人，尚在医学观察的密切接触者24257人。
-　　31个省(自治区、直辖市)和新疆生产建设兵团报告新增无症状感染者37例，其中境外输入12例，本土25例(河南20例，湖南4例，福建1例);当日转为确诊病例4例(境外输入3例);当日解除医学观察13例(均为境外输入);尚在医学观察的无症状感染者443例(境外输入386例)。
-　　累计收到港澳台地区通报确诊病例27717例。其中，香港特别行政区11984例(出院11713例，死亡212例)，澳门特别行政区59例(出院54例)，台湾地区15674例(出院12856例，死亡787例)。
+        <title type="html"><![CDATA[8月1日31省区市新增本土确诊55例(涉及8省市)]]></title>
+        <id>http://sh.bendibao.com/news/202182/242478.shtm</id>
+        <link href="http://sh.bendibao.com/news/202182/242478.shtm"/>
+        <updated>2021-08-02T04:59:00.000Z</updated>
+        <summary type="html"><![CDATA[31省区市新增本土确诊55例
+　　8月1日0—24时，31个省(自治区、直辖市)和新疆生产建设兵团报告新增确诊病例98例，其中境外输入病例43例(云南16例，北京4例，福建4例，内蒙古3例，江苏3例，陕西3例，上海2例，山东2例，河南2例，广东2例，四川2例)，本土病例55例(江苏40例，湖南7例，北京2例，湖北2例，山东1例，河南1例，海南1例，云南1例);无新增死亡病例;无新增疑似病例。
+　　当日新增治愈出院病例29例，解除医学观察的密切接触者662人，重症病例较前一日减少1例。
+　　境外输入现有确诊病例686例(其中重症病例16例)，现有疑似病例1例。累计确诊病例7475例，累计治愈出院病例6789例，无死亡病例。
+　　截至8月1日24时，据31个省(自治区、直辖市)和新疆生产建设兵团报告，现有确诊病例1091例(其中重症病例24例)，累计治愈出院病例87376例，累计死亡病例4636例，累计报告确诊病例93103例，现有疑似病例1例。累计追踪到密切接触者1098701人，尚在医学观察的密切接触者28648人。
+　　31个省(自治区、直辖市)和新疆生产建设兵团报告新增无症状感染者60例，其中境外输入16例，本土44例(河南28例，湖南11例，江苏2例，湖北2例，北京1例);当日转为确诊病例7例(境外输入4例);当日解除医学观察20例(境外输入19例);尚在医学观察的无症状感染者476例(境外输入379例)。
+　　累计收到港澳台地区通报确诊病例27734例。其中，香港特别行政区11987例(出院11715例，死亡212例)，澳门特别行政区59例(出院54例)，台湾地区15688例(出院12879例，死亡789例)。
 　　(注：信息来自国家卫生健康委员会官方网站。)
-　　江苏新增本土确诊病例30例
-　　7月31日0-24时，江苏新增本土确诊病例30例(南京市报告14例，其中1例为无症状感染者转为确诊病例;淮安市报告4例;扬州市报告12例)，20例为轻型，10例为普通型。以上病例均在定点医院隔离治疗。当日全省解除医学观察的境外输入无症状感染者3例。
-　　7月20日至今，南京市累计报告本土确诊病例204例(其中轻型83例、普通型114例、重型7例)。
+　　江苏新增本土病例40例
+　　8月1日0-24时，江苏新增本土确诊病例40例(南京市报告11例，淮安市报告3例，扬州市报告26例)，11例为轻型，29例为普通型。新增本土无症状感染者2例(均为扬州市报告)。新增境外输入确诊病例3例。以上病例均在定点医院隔离治疗。当日全省解除医学观察的境外输入无症状感染者2例。
+　　7月20日至今，南京市累计报告本土确诊病例215例(其中轻型81例、普通型127例、重型7例)。
 　　(注：信息来自健康江苏微博。)
-　　湖南新增本土确诊病例4例
-　　2021年7月31日0-24时，湖南省报告新增新型冠状病毒肺炎确诊病例4例(长沙市1例、张家界市2例、湘西自治州1例)。
-　　2021年7月31日0-24时，湖南省报告新增新型冠状病毒肺炎无症状感染者4例(株洲市1例、湘潭市1例、常德市1例、张家界市1例)，当日转确诊病例0例，当日解除隔离1例(境外输入)，尚在医学观察28例(境外输入9例)。
-　　2021年7月20日0时至7月31日24时，湖南省累计报告新型冠状病毒肺炎确诊病例15例(境外输入3例)，住院治疗15例(境外输入3例)，重症0例，死亡0例。
+　　湖南新增7例本土病例
+　　2021年8月1日0-24时，湖南省报告新增新型冠状病毒肺炎确诊病例7例(株洲市3例、张家界市3例、益阳市1例)，其中株洲市3例为无症状感染者转确诊。
+　　2021年8月1日0-24时，湖南省报告新增新型冠状病毒肺炎无症状感染者11例(长沙市1例、株洲市6例、张家界市1例、益阳市3例)，当日转确诊病例3例(株洲市)，当日解除隔离0例，尚在医学观察36例(境外输入9例)。
+　　2021年7月20日0时至8月1日24时，湖南省累计报告新型冠状病毒肺炎确诊病例22例(境外输入3例)，住院治疗22例(境外输入3例)，重症0例，死亡0例。
 　　(注：信息来自健康微湖南。)
 
 
@@ -616,86 +687,33 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[进出上海最新规定2021]]></title>
-        <id>http://sh.bendibao.com/news/2021731/242441.shtm</id>
-        <link href="http://sh.bendibao.com/news/2021731/242441.shtm"/>
-        <updated>2021-07-31T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[2021年7月29日，上海市再次发布防控通知，要求全面落实落细各项防控措施，持续紧盯入城口、落脚点、流动中、就业岗、学校门、监测哨等关键点关节点。强化机场口岸、码头车站防控闭环管理和分区分级管控，加强隔离点管理和隔离房源筹措，充分发挥发热门诊和发热哨点监测预警作用。
-　　一、上海最新隔离政策
-　　(2021年7月29日发布)
-　　■ 所有来自或途经国内疫情中高风险地区的来沪返沪人员，应在抵沪后尽快且不得超过12小时向所在居村委和单位(或所住宾馆)报告。
-　　■ 对所有来自或途经国内疫情高风险地区的来沪返沪人员，一律实施14天集中隔离健康观察，实行2次新冠病毒核酸检测。
-　　■ 对所有来自或途经国内疫情中风险地区的来沪返沪人员，一律实施14天严格的社区健康管理，实行2次新冠病毒核酸检测。
-　　■ 学校等有关单位加强健康码查验，对近14天内国内疫情中高风险地区来沪返沪的学生、职工等协助落实相应健康管理措施。
-　　同时提醒广大市民：非必要不前往国内疫情中高风险地区，非必要不出境。出行时，做好个人防护、手部消毒等，开展每日自主健康监测。
-　　二、上海出入口疫情防控措施
-　　■ 上海机场方面：
-　　所有进入上海浦东、虹桥机场航站楼的人员均需佩戴口罩并接受测温。目前，上海两场对所有国内到达旅客在体温检测的基础上进行健康码查验，机场方面将根据查验结果予以放行或根据防疫政策安排后续处置。同时，现场设有健康状况申报台，供旅客主动申报。
-　　各大航司咨询热线 ↓↓
-
-　　■ 上海火车站方面：
-　　根据最新防疫要求，所有到沪旅客均需查验健康码。若有人持黄码，现场工作人员会通知社区接人，居家隔离14天;若持红码，工作人员则会送该旅客至指定的集中隔离点隔离14天。个别旅客无法联网提供绿码的，则需要出示身份证，通过后台对行程进行比对。
-　　严格做好对旅客的测温工作，其中进站一次、出站一次。
-　　在中高风险地区清零前，作为上海门户的各大火车站都将维持目前的防疫措施不放松。
-　　ps：目前南京火车站和南京南站未被列为中风险地区，因此途经旅客健康码不变。
-　　■ 上海长途汽车站方面：
-　　上海长途汽车总站到达出口，工作人员都会查看健康码或者行程码，无法联网查验健康码的人员，工作人员会登记身份信息，或者帮助其上网查验。
-　　行程码领取方式 ↓↓
-
-　　■ 上海市内地铁方面：
-　　上海市内公交同样坚持常态化防疫措施不松懈。
-　　地铁在各线路车站实施乘客测温进站，由专人通过手持非接触式体温仪或非接触式热成像测温仪，对进站的每一位乘客进行体温筛查。同时，要求乘客全程佩戴口罩乘坐地铁，对未佩戴口罩的乘客将进行劝离。
-　　三、相关问答
-　　01
-　　问：乘高铁路过中高风险地区健康码会变色吗?
-　　答：如果只是途经某一个中高风险地区，同一车次也没有发现疑似或确诊病例的话，健康码不会变色。
-　　02
-　　问：休假返沪需要检测核酸吗?
-　　答：目前来看，检测核酸是判断是否感染新冠病毒最可靠的方法。国内部分地区疫情的反复，为尽早控制疫情，提倡非必要不外出，请市民不要前往国内疫情中高风险地区。外出返沪人员应遵循防疫要求，必要时接受隔离和核酸检测。
-　　03
-　　问：火车经过南京站，但是不下车，算是进入中风险地区吗?
-　　答：目前南京火车站和南京南站未被列入中风险区域。
-
-　　04
-　　问：从上海自驾到南京低风险区，返沪后防疫规定是什么样的?
-　　答：要看是否途经南京的中高风险地区。
-　　05
-　　问：职工被隔离期间，有工资吗?
-　　答：需要支付。根据人力资源社会保障部办公厅《关于妥善处理新型冠状病毒感染的肺炎疫情防控期间劳动关系问题的通知》规定：对新型冠状病毒感染的肺炎患者、疑似病人、密切接触者在其隔离治疗期间或医学观察期间以及因政府实施隔离措施或采取其他紧急措施导致不能提供正常劳动的企业职工，企业应当支付职工在此期间的工作报酬。
-　　但是需要提醒的是，上述情况也可能存在特例。如因劳动者存在明显过错导致感染新冠肺炎的，也可能导致无法享受上述待遇。
-　　注：本文信息来源于上海发布、上海交通、上海机场集团等。
-
-
-
-
---->
-
-温馨提示：微信关注上海本地宝公众号(shbendibao)，输入框回复 风险，获取风险等级查询入口，查看全国中高风险地区名单(第一时间更新)。回复 隔离，查看上海最新隔离政策(国内来沪人员+入境人员）。回复 进出沪，查看进出上海最新规定，火车站/机场防疫措施。
-
-手机访问 上海本地宝首页]]></summary>
+        <title type="html"><![CDATA[计算机与网络安全（一）｜ 8月更文挑战]]></title>
+        <id>https://juejin.cn/post/6991801008607199269</id>
+        <link href="https://juejin.cn/post/6991801008607199269"/>
+        <updated>2021-08-02T04:00:31.000Z</updated>
+        <summary type="html"><![CDATA[@charset "UTF-8";.markdown-body{word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#2b2b2b;font-family:-apple-system,system-ui,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Arial,sans-serif;background-image:linear-gradient(90deg,rgba(159,219,252,.15) 3%,transparent 0),linear-gradient(1turn,rgba(159,219,252,.15) 3%,transparent 0);background-size:20px 20px;background-position:50%}.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6{padding:30px 0;margin-top:35px;margin-bottom:10px;color:#4dd0e1}.markdown-body h1{font-size:30px;text-align:center;position:relative;width:max-content;margin:0 auto}.markdown-body h1:before{position:absolute;content:"";z-index:-1;top:-…]]></summary>
         <author>
-            <name>上海本地宝焦点资讯</name>
+            <name>Sunshine</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[12306网站延长售票改签服务时间]]></title>
-        <id>http://sh.bendibao.com/traffic/2021731/242440.shtm</id>
-        <link href="http://sh.bendibao.com/traffic/2021731/242440.shtm"/>
-        <updated>2021-07-31T03:53:00.000Z</updated>
-        <summary type="html"><![CDATA[国铁集团2021年7月31日消息：自7月31日起，12306网站延长售票改签服务时间。
-　　为了更好地方便旅客购票，经过充分试验测试，在确保铁路12306网站(含手机客户端，下同)安全平稳运行前提下，中国国家铁路集团有限公司决定，自7月31日起，铁路12306网站售票改签服务时间由每日5:00至23:30，调整为每日5:00至次日凌晨1:00，提供每日20小时售票改签服务。同时，继续提供每日24小时退票服务。
-　　此次延长网站售票改签服务时间，是铁路部门在党史学习教育中，聚焦人民群众对美好旅行生活的向往、努力为群众办实事的具体举措。调整后，网站利用每日凌晨1:00至5:00进行数据处理工作。其中，每周二23:30至次日凌晨5:00安排系统运维巡检。下一步，铁路部门将深入研究旅客购票服务规律，持续优化12306网站平台业务流程和功能，不断提升旅客购票体验。
-　　铁路12306网站是铁路唯一官方购票平台，请广大旅客朋友使用铁路12306网站购票。
-
-
-
-
-
---->
-
-手机访问 上海本地宝首页]]></summary>
+        <title type="html"><![CDATA[没啥用的黑科技——自动生成测试对象信息框架]]></title>
+        <id>https://juejin.cn/post/6991797787343978503</id>
+        <link href="https://juejin.cn/post/6991797787343978503"/>
+        <updated>2021-08-02T03:46:47.000Z</updated>
+        <summary type="html"><![CDATA[.markdown-body{word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333}.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6{line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px}.markdown-body h1{font-size:30px;margin-bottom:5px}.markdown-body h2{padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec}.markdown-body h3{font-size:18px;padding-bottom:0}.markdown-body h4{font-size:16px}.markdown-body h5{font-size:15px}.markdown-body h6{margin-top:5px}.markdown-body p{line-height:inherit;margin-top:22px;margin-bottom:22px}.markdown-body img{max-width:100%}.markdown-body hr{border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px}.markdown-body code{word-b…]]></summary>
         <author>
-            <name>上海本地宝焦点资讯</name>
+            <name>老马啸西风</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[适合普通大学生的 Java 后端开发学习路线]]></title>
+        <id>https://juejin.cn/post/6991780058624950302</id>
+        <link href="https://juejin.cn/post/6991780058624950302"/>
+        <updated>2021-08-02T02:43:06.000Z</updated>
+        <summary type="html"><![CDATA[.markdown-body{word-break:break-word;line-height:1.75;font-weight:400;font-size:15px;overflow-x:hidden;color:#333}.markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4,.markdown-body h5,.markdown-body h6{line-height:1.5;margin-top:35px;margin-bottom:10px;padding-bottom:5px}.markdown-body h1{font-size:30px;margin-bottom:5px}.markdown-body h2{padding-bottom:12px;font-size:24px;border-bottom:1px solid #ececec}.markdown-body h3{font-size:18px;padding-bottom:0}.markdown-body h4{font-size:16px}.markdown-body h5{font-size:15px}.markdown-body h6{margin-top:5px}.markdown-body p{line-height:inherit;margin-top:22px;margin-bottom:22px}.markdown-body img{max-width:100%}.markdown-body hr{border:none;border-top:1px solid #ddd;margin-top:32px;margin-bottom:32px}.markdown-body code{word-b…]]></summary>
+        <author>
+            <name>帅地</name>
         </author>
     </entry>
     <entry>
@@ -776,6 +794,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[讲一讲 Hive 的自定义函数 UDF, 顺便聊聊 Hive 中 AES 加解密的代码实现]]></title>
+        <id>https://toutiao.io/k/6xvua0u</id>
+        <link href="https://toutiao.io/k/6xvua0u"/>
+        <updated>2021-07-29T10:47:13.000Z</updated>
+        <summary type="html"><![CDATA[讲一讲 Hive 的自定义函数 UDF, 顺便聊聊 Hive 中 AES 加解密的代码实现]]></summary>
+        <author>
+            <name>开发者头条:今日头条 2021-08-03</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2021上海政府最新隔离政策(国内+入境)]]></title>
         <id>http://sh.bendibao.com/news/2021721/241986.shtm</id>
         <link href="http://sh.bendibao.com/news/2021721/241986.shtm"/>
@@ -853,31 +881,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021上海chinajoy展位图+参展商名单]]></title>
-        <id>http://sh.bendibao.com/tour/2021728/242255.shtm</id>
-        <link href="http://sh.bendibao.com/tour/2021728/242255.shtm"/>
-        <updated>2021-07-27T23:53:00.000Z</updated>
-        <summary type="html"><![CDATA[作为当今全球数字娱乐领域最具知名度与影响力的年度盛会之一，2021年第十九届中国国际数码互动娱乐展览会(ChinaJoy)，将于7月30日至8月2日在上海新国际博览中心举办。本届ChinaJoy的展会主题为：科技创梦乐赢未来，将以IP为核心，涵盖游戏、动漫、互联网影视与音乐、网络文学、电子竞技、潮流玩具、智能娱乐软件及硬件等数字娱乐多领域，全景呈现以新科技为动力的数字娱乐产业发展盛况。
-　　7月27日，ChinaJoy全部展商名(包含BTOC/BTOB/eSmart/CAWAE/CJTS/CJFM)及各展馆展位图公布。
-
-　　BTOC展馆平面图
-
-　　BTOB展馆平面图
-
-　　2021ChinaJoy，疫情防控，从我做起!参观期间，请大家全程佩戴口罩。
-
-
-
-
---->
-
-温馨提示：关注上海本地宝微信公众号(shbendibao)，输入框回复 【cj】，即可获取2021年第十九届ChinaJoy官方及指定购票渠道入口; 查看ChinaJoy参观时间表、日程安排、展商名单、展位图、疫情防控措施(二码+核酸检测证明)、入场须知、交通指南、参观攻略、主办方咨询电话等。(重要提示：所有人员需持7日内核酸检测阴性证明入场，若无法前往可申请退票)
-
-
-
-手机访问 上海本地宝首页]]></summary>
+        <title type="html"><![CDATA[[推荐] 深入分析 MySQL 系列之总体架构介绍]]></title>
+        <id>https://toutiao.io/k/zm3jxob</id>
+        <link href="https://toutiao.io/k/zm3jxob"/>
+        <updated>2021-07-07T04:26:41.000Z</updated>
+        <summary type="html"><![CDATA[[推荐] 深入分析 MySQL 系列之总体架构介绍]]></summary>
         <author>
-            <name>上海本地宝焦点资讯</name>
+            <name>开发者头条:今日头条 2021-08-03</name>
         </author>
     </entry>
 </feed>
